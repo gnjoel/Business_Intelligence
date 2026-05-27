@@ -1,0 +1,101 @@
+StudentID,FirstName,LastName,Age,Gender,Email,Phone,Department,EnrollmentYear,Semester,GPA
+S00001,Shannon,Brown,27,Female,shannon.brown@university.edu,8056782145,Psychology,2026,Fall,2.77
+S00002,Joshua,Matthews,20,Male,joshua.matthews@university.edu,4546055229,Business Administration,2023,Spring,3.88
+S00003,Crystal,Herman,25,Male,crystal.herman@university.edu,1570408160,Economics,2021,Summer,3.02
+S00004,Samantha,Ramsey,20,Female,samantha.ramsey@university.edu,2587572702,Biology,2023,Fall,3.54
+S00005,Kristen,Gonzalez,23,Female,kristen.gonzalez@university.edu,5422986503,Psychology,2025,Spring,2.85
+S00006,Joshua,Cervantes,25,Female,joshua.cervantes@university.edu,8669393474,Economics,2021,Summer,2.2
+S00007,Jonathan,Jones,25,Male,jonathan.jones@university.edu,3732199095,Biology,2021,Summer,3.54
+S00008,Amanda,Cole,23,Female,amanda.cole@university.edu,8091766993,Biology,2023,Spring,2.5
+S00009,Ellen,Bowen,28,Female,ellen.bowen@university.edu,2608445072,Mathematics,2026,Summer,2.22
+S00010,William,Lee,24,Male,william.lee@university.edu,3278708354,Computer Science,2026,Fall,2.81
+S00011,Debbie,Wu,19,Male,debbie.wu@university.edu,8757037086,Business Administration,2024,Fall,3.28
+S00012,David,Parker,28,Male,david.parker@university.edu,6383073617,Mechanical Engineering,2023,Fall,2.83
+S00013,Jason,Robertson,20,Female,jason.robertson@university.edu,7778793819,Biology,2026,Fall,3.78
+S00014,Travis,Brown,18,Male,travis.brown@university.edu,7212557537,Mathematics,2024,Spring,3.82
+S00015,Michael,Bailey,22,Male,michael.bailey@university.edu,7626977184,Psychology,2021,Fall,3.1
+S00016,Sarah,Kidd,26,Male,sarah.kidd@university.edu,3916753057,Biology,2025,Fall,3.8
+S00017,Dustin,Gould,22,Female,dustin.gould@university.edu,3061221303,Mathematics,2026,Fall,2.59
+S00018,Amanda,Pratt,21,Female,amanda.pratt@university.edu,6667831305,Mathematics,2023,Spring,3.75
+S00019,James,Meyers,19,Male,james.meyers@university.edu,9844517481,Psychology,2026,Fall,3.59
+S00020,Carlos,Dalton,19,Male,carlos.dalton@university.edu,2478153090,Economics,2021,Fall,3.13
+S00021,Laura,Parker,24,Female,laura.parker@university.edu,0534075236,English Literature,2025,Spring,2.76
+S00022,David,Fowler,18,Female,david.fowler@university.edu,1306460255,English Literature,2025,Spring,3.18
+S00023,Amber,Jenkins,25,Male,amber.jenkins@university.edu,0957006751,Psychology,2021,Summer,3.41
+S00024,Anna,Jones,24,Male,anna.jones@university.edu,3042687406,Computer Science,2025,Spring,3.51
+S00025,Kim,Mays,26,Female,kim.mays@university.edu,7971140719,Mechanical Engineering,2022,Spring,2.05
+S00026,Erica,Barry,23,Female,erica.barry@university.edu,9076705370,Computer Science,2024,Summer,2.75
+S00027,Misty,Jennings,19,Male,misty.jennings@university.edu,5523769044,Economics,2021,Spring,3.9
+S00028,Martin,Taylor,19,Male,martin.taylor@university.edu,9883390532,Economics,2023,Fall,2.97
+S00029,Richard,Bradshaw,23,Female,richard.bradshaw@university.edu,6052901395,Psychology,2021,Spring,2.9
+S00030,Sydney,Jenkins,22,Female,sydney.jenkins@university.edu,4467812011,Business Administration,2025,Fall,2.34
+S00031,Anthony,Burton,20,Male,anthony.burton@university.edu,6974443501,Business Administration,2022,Spring,2.32
+S00032,Kathleen,Young,26,Female,kathleen.young@university.edu,1229103293,English Literature,2026,Fall,2.12
+S00033,Joanna,Camacho,25,Male,joanna.camacho@university.edu,1316923071,Biology,2021,Fall,3.58
+S00034,Jimmy,Joseph,22,Female,jimmy.joseph@university.edu,6650155752,Mathematics,2022,Spring,2.69
+S00035,Debra,Benjamin,21,Female,debra.benjamin@university.edu,4915190723,Business Administration,2021,Summer,3.49
+S00036,Lauren,Beasley,27,Female,lauren.beasley@university.edu,8893794709,Computer Science,2025,Spring,2.83
+S00037,Kyle,Estrada,26,Female,kyle.estrada@university.edu,1421627574,Biology,2021,Fall,2.48
+S00038,John,Rivera,19,Male,john.rivera@university.edu,7492016446,Business Administration,2024,Summer,3.52
+S00039,Kenneth,Day,22,Female,kenneth.day@university.edu,4727607207,Business Administration,2022,Spring,3.27
+S00040,Jonathan,Reyes,27,Male,jonathan.reyes@university.edu,7479491178,English Literature,2026,Summer,3.2
+S00041,Debra,Mcneil,26,Female,debra.mcneil@university.edu,4052654253,Psychology,2022,Spring,3.22
+S00042,Joseph,Nelson,28,Female,joseph.nelson@university.edu,5870868626,Mathematics,2024,Spring,3.48
+S00043,Andrew,Price,27,Female,andrew.price@university.edu,4227575890,Biology,2021,Spring,3.41
+S00044,Jeff,Jennings,22,Female,jeff.jennings@university.edu,6383678798,Computer Science,2025,Spring,2.13
+S00045,Paul,Johnson,19,Male,paul.johnson@university.edu,6907199933,Biology,2021,Summer,2.7
+S00046,Alex,Tran,22,Female,alex.tran@university.edu,8986279915,Business Administration,2026,Fall,3.12
+S00047,Mary,Oliver,28,Female,mary.oliver@university.edu,1579635369,Psychology,2022,Spring,3.16
+S00048,Jeffrey,Rose,20,Female,jeffrey.rose@university.edu,7372777920,Biology,2026,Summer,3.04
+S00049,Michael,Cooper,21,Female,michael.cooper@university.edu,3652682256,Mechanical Engineering,2021,Summer,3.22
+S00050,Kimberly,Johnston,26,Female,kimberly.johnston@university.edu,7714833039,Computer Science,2021,Fall,2.2
+S00051,Elizabeth,Barnes,19,Female,elizabeth.barnes@university.edu,9499631997,Computer Science,2023,Fall,2.54
+S00052,Stephanie,Sawyer,27,Male,stephanie.sawyer@university.edu,2151670339,Psychology,2026,Spring,2.26
+S00053,Erik,Jensen,21,Female,erik.jensen@university.edu,5104609060,Computer Science,2024,Fall,2.47
+S00054,Shannon,Miller,25,Female,shannon.miller@university.edu,7713706749,Mechanical Engineering,2025,Summer,3.16
+S00055,Colin,Smith,27,Female,colin.smith@university.edu,0112598287,Psychology,2025,Fall,3.13
+S00056,Pedro,Cantrell,28,Male,pedro.cantrell@university.edu,7324836016,Economics,2024,Fall,3.67
+S00057,Angela,Davis,26,Female,angela.davis@university.edu,0869089883,Biology,2025,Spring,3.62
+S00058,Patrick,Ortiz,18,Male,patrick.ortiz@university.edu,4472876389,Economics,2025,Spring,2.37
+S00059,Lisa,Smith,22,Male,lisa.smith@university.edu,2272407610,Biology,2023,Fall,3.96
+S00060,Joshua,Patrick,18,Female,joshua.patrick@university.edu,9308695437,Economics,2023,Fall,3.74
+S00061,Rhonda,Palmer,20,Female,rhonda.palmer@university.edu,2856859686,Mathematics,2025,Summer,2.37
+S00062,Dustin,Rose,24,Female,dustin.rose@university.edu,9712092870,Biology,2021,Spring,3.2
+S00063,Larry,Rowe,19,Male,larry.rowe@university.edu,1130859081,Mathematics,2023,Summer,2.13
+S00064,Pamela,Freeman,24,Male,pamela.freeman@university.edu,4789402721,Computer Science,2021,Summer,2.83
+S00065,Nancy,Garcia,18,Female,nancy.garcia@university.edu,4828156406,Economics,2023,Summer,3.02
+S00066,Jason,Mcdonald,27,Female,jason.mcdonald@university.edu,3239164130,Computer Science,2022,Spring,2.41
+S00067,Louis,Benjamin,22,Male,louis.benjamin@university.edu,4662113275,Business Administration,2025,Fall,2.0
+S00068,David,Ross,25,Female,david.ross@university.edu,4516951367,Business Administration,2021,Summer,2.04
+S00069,Emily,Meyers,26,Male,emily.meyers@university.edu,4794849938,Economics,2025,Fall,2.43
+S00070,Claudia,Wang,23,Female,claudia.wang@university.edu,1666250279,Biology,2026,Fall,2.48
+S00071,Brandy,Neal,27,Male,brandy.neal@university.edu,4105703192,Business Administration,2024,Spring,3.9
+S00072,Marcus,Fields,25,Male,marcus.fields@university.edu,8905331180,Mechanical Engineering,2026,Summer,3.04
+S00073,Abigail,Hays,18,Male,abigail.hays@university.edu,9024273851,Mathematics,2023,Fall,2.13
+S00074,Jonathan,Rodriguez,19,Male,jonathan.rodriguez@university.edu,0658125317,Economics,2025,Summer,2.9
+S00075,Carrie,Baker,19,Female,carrie.baker@university.edu,7002401045,Business Administration,2024,Spring,2.82
+S00076,Richard,Cabrera,23,Male,richard.cabrera@university.edu,2619622860,Mechanical Engineering,2025,Summer,2.65
+S00077,John,Burton,25,Female,john.burton@university.edu,3290548482,Mechanical Engineering,2025,Spring,3.13
+S00078,Mary,Cunningham,18,Female,mary.cunningham@university.edu,4859056226,Economics,2021,Spring,2.19
+S00079,Michael,Stark,25,Female,michael.stark@university.edu,8842345976,Psychology,2023,Fall,3.95
+S00080,Latasha,Mccarthy,27,Male,latasha.mccarthy@university.edu,1391733536,Business Administration,2026,Spring,3.12
+S00081,Daniel,Watts,25,Male,daniel.watts@university.edu,0545163991,Economics,2026,Summer,3.26
+S00082,James,Glass,20,Female,james.glass@university.edu,0869355659,Psychology,2026,Fall,3.49
+S00083,Edward,Carter,23,Male,edward.carter@university.edu,3827180940,Psychology,2021,Summer,2.11
+S00084,Brandon,Floyd,23,Male,brandon.floyd@university.edu,0042439137,Mechanical Engineering,2021,Fall,3.08
+S00085,Jason,Harris,19,Male,jason.harris@university.edu,0552806647,Computer Science,2022,Spring,3.94
+S00086,Jennifer,Frazier,20,Male,jennifer.frazier@university.edu,0403451614,Mechanical Engineering,2025,Fall,3.17
+S00087,Robert,Martin,22,Female,robert.martin@university.edu,5989149664,Business Administration,2025,Spring,3.1
+S00088,Jennifer,Munoz,26,Female,jennifer.munoz@university.edu,4740873719,Psychology,2022,Spring,3.93
+S00089,Rodney,Neal,22,Male,rodney.neal@university.edu,7123703703,Mathematics,2024,Spring,3.48
+S00090,Christopher,Pitts,19,Female,christopher.pitts@university.edu,6305228423,Biology,2023,Summer,3.47
+S00091,Katherine,Brown,18,Female,katherine.brown@university.edu,9457438169,English Literature,2024,Summer,3.18
+S00092,Adam,Fisher,21,Female,adam.fisher@university.edu,4793381253,Psychology,2024,Summer,2.85
+S00093,Nancy,Contreras,18,Male,nancy.contreras@university.edu,0807085995,English Literature,2021,Fall,3.07
+S00094,Randy,Evans,20,Female,randy.evans@university.edu,1338187293,Mechanical Engineering,2021,Summer,2.05
+S00095,Ashley,Miller,18,Female,ashley.miller@university.edu,1355452937,Economics,2024,Fall,2.48
+S00096,Michelle,Cobb,23,Female,michelle.cobb@university.edu,9470226780,Mathematics,2022,Fall,2.23
+S00097,Tyler,Lester,26,Male,tyler.lester@university.edu,7331365245,Business Administration,2024,Fall,3.42
+S00098,Travis,Young,21,Female,travis.young@university.edu,4205893016,Computer Science,2024,Summer,2.79
+S00099,Brian,Mcdowell,23,Male,brian.mcdowell@university.edu,7888625161,English Literature,2026,Spring,3.76
+S00100,Robert,Parks,28,Male,robert.parks@university.edu,9259399796,Mechanical Engineering,2021,Spring,2.58
