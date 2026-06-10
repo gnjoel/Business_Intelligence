@@ -1,0 +1,1001 @@
+StudentID,EnrollmentDate,Department,Semester,GPA,Gender,Age
+ST0001,2024-08-02,Computer Science,First Semester,3.48,Male,21
+ST0002,2021-10-13,Education,First Semester,3.35,Male,27
+ST0003,2023-05-15,Computer Science,First Semester,2.19,Male,26
+ST0004,2024-05-17,Computer Science,Summer,2.4,Female,21
+ST0005,2023-07-09,Engineering,Second Semester,3.62,Male,30
+ST0006,2025-07-09,Information Technology,Summer,2.85,Female,20
+ST0007,2022-03-17,Business,First Semester,2.19,Male,23
+ST0008,2025-10-02,Business,Summer,2.53,Male,29
+ST0009,2023-07-30,Engineering,First Semester,3.95,Female,19
+ST0010,2024-02-05,Business,Summer,3.24,Female,27
+ST0011,2022-01-29,Education,First Semester,2.09,Male,30
+ST0012,2022-08-16,Computer Science,First Semester,3.73,Female,22
+ST0013,2023-07-18,Education,Second Semester,2.33,Female,21
+ST0014,2024-10-04,Business,Summer,3.87,Male,27
+ST0015,2024-07-24,Information Technology,Summer,3.46,Male,25
+ST0016,2023-02-17,Business,Summer,3.38,Male,28
+ST0017,2022-10-27,Computer Science,First Semester,3.64,Female,24
+ST0018,2022-07-03,Computer Science,First Semester,3.83,Female,21
+ST0019,2024-09-04,Accounting,Second Semester,3.77,Female,20
+ST0020,2022-06-27,Information Technology,First Semester,3.49,Female,29
+ST0021,2024-04-12,Accounting,Summer,2.8,Male,20
+ST0022,2023-11-10,Accounting,First Semester,3.51,Male,20
+ST0023,2024-07-09,Information Technology,Summer,2.84,Male,24
+ST0024,2023-02-21,Engineering,Second Semester,3.06,Male,28
+ST0025,2025-01-16,Computer Science,Summer,3.77,Female,30
+ST0026,2024-08-05,Business,First Semester,2.59,Male,25
+ST0027,2021-01-07,Education,Summer,2.53,Male,26
+ST0028,2021-08-06,Education,Second Semester,3.68,Male,20
+ST0029,2023-02-05,Information Technology,Summer,3.91,Male,27
+ST0030,2022-10-26,Accounting,First Semester,2.22,Female,30
+ST0031,2022-09-22,Information Technology,First Semester,2.48,Male,19
+ST0032,2025-02-07,Accounting,First Semester,3.96,Male,20
+ST0033,2024-09-13,Accounting,Summer,2.33,Female,21
+ST0034,2024-01-10,Education,Summer,2.4,Female,24
+ST0035,2024-10-07,Education,Second Semester,2.88,Female,19
+ST0036,2022-05-23,Information Technology,First Semester,2.68,Male,27
+ST0037,2022-03-28,Computer Science,First Semester,3.42,Male,21
+ST0038,2021-05-19,Computer Science,Second Semester,2.14,Male,22
+ST0039,2024-10-02,Accounting,First Semester,3.08,Female,21
+ST0040,2025-05-26,Accounting,Second Semester,2.38,Male,28
+ST0041,2023-06-02,Business,Second Semester,2.82,Male,28
+ST0042,2024-08-31,Education,First Semester,2.12,Female,30
+ST0043,2025-10-31,Computer Science,First Semester,2.38,Female,20
+ST0044,2023-05-15,Information Technology,Second Semester,2.93,Male,25
+ST0045,2025-07-13,Engineering,First Semester,2.1,Male,19
+ST0046,2025-03-24,Information Technology,First Semester,2.81,Female,21
+ST0047,2025-11-06,Accounting,First Semester,2.33,Male,24
+ST0048,2022-06-28,Accounting,Second Semester,2.85,Female,20
+ST0049,2022-01-24,Business,First Semester,3.94,Male,29
+ST0050,2022-10-05,Computer Science,First Semester,3.17,Male,18
+ST0051,2023-11-07,Computer Science,First Semester,2.14,Male,28
+ST0052,2025-11-01,Information Technology,Second Semester,2.24,Male,27
+ST0053,2024-05-02,Computer Science,Summer,2.16,Female,22
+ST0054,2022-02-23,Education,Summer,2.63,Female,24
+ST0055,2021-09-26,Education,Summer,2.6,Female,30
+ST0056,2021-05-29,Computer Science,Second Semester,3.24,Male,19
+ST0057,2024-01-07,Information Technology,Summer,2.53,Female,19
+ST0058,2025-12-06,Information Technology,Second Semester,2.57,Female,26
+ST0059,2024-12-11,Business,Summer,3.97,Male,28
+ST0060,2025-08-01,Engineering,Second Semester,3.86,Male,20
+ST0061,2022-06-26,Computer Science,First Semester,3.48,Male,22
+ST0062,2022-08-01,Engineering,First Semester,3.44,Male,28
+ST0063,2024-07-22,Business,Summer,2.98,Male,19
+ST0064,2024-07-23,Accounting,Second Semester,2.09,Female,30
+ST0065,2021-09-25,Education,Second Semester,2.32,Female,26
+ST0066,2024-12-16,Accounting,Summer,2.02,Male,29
+ST0067,2021-11-02,Engineering,First Semester,3.67,Male,24
+ST0068,2021-09-19,Computer Science,Second Semester,2.73,Male,23
+ST0069,2022-03-07,Education,First Semester,3.33,Female,30
+ST0070,2024-02-21,Accounting,Summer,3.5,Male,20
+ST0071,2025-06-27,Information Technology,Second Semester,2.05,Female,30
+ST0072,2023-04-24,Education,Summer,3.62,Female,20
+ST0073,2025-06-01,Education,First Semester,2.77,Male,25
+ST0074,2022-04-01,Information Technology,Second Semester,2.7,Male,21
+ST0075,2021-02-18,Education,First Semester,2.8,Female,19
+ST0076,2025-05-03,Business,Second Semester,3.28,Female,28
+ST0077,2025-09-24,Engineering,Second Semester,3.88,Male,22
+ST0078,2022-01-01,Engineering,Second Semester,2.08,Female,23
+ST0079,2025-02-01,Business,Second Semester,3.21,Male,24
+ST0080,2024-03-26,Information Technology,Second Semester,2.09,Female,18
+ST0081,2023-12-01,Engineering,Summer,3.44,Male,23
+ST0082,2023-06-03,Computer Science,Summer,3.84,Female,28
+ST0083,2025-10-03,Computer Science,Summer,3.8,Female,28
+ST0084,2023-04-17,Business,Second Semester,3.39,Male,21
+ST0085,2023-05-12,Education,Second Semester,3.35,Male,27
+ST0086,2024-03-11,Business,Second Semester,3.1,Male,22
+ST0087,2022-08-11,Information Technology,Second Semester,3.57,Female,25
+ST0088,2023-06-24,Accounting,Summer,2.43,Female,30
+ST0089,2025-06-19,Education,First Semester,3.32,Female,26
+ST0090,2024-09-21,Education,Summer,2.67,Male,28
+ST0091,2022-09-28,Information Technology,First Semester,2.29,Male,21
+ST0092,2023-09-01,Engineering,First Semester,2.91,Male,29
+ST0093,2024-11-27,Accounting,Second Semester,2.8,Male,28
+ST0094,2024-11-09,Computer Science,First Semester,3.56,Male,20
+ST0095,2025-07-05,Education,Summer,2.93,Male,19
+ST0096,2023-07-24,Information Technology,Second Semester,3.34,Female,30
+ST0097,2025-12-31,Accounting,Summer,3.63,Female,26
+ST0098,2023-07-03,Information Technology,Summer,3.72,Female,22
+ST0099,2025-03-20,Information Technology,Summer,2.55,Female,28
+ST0100,2022-05-05,Business,Second Semester,2.15,Female,21
+ST0101,2022-07-11,Business,Second Semester,3.79,Male,20
+ST0102,2021-11-05,Information Technology,Second Semester,3.39,Male,19
+ST0103,2023-04-30,Accounting,Second Semester,3.09,Female,18
+ST0104,2022-02-28,Accounting,Second Semester,3.81,Male,30
+ST0105,2024-03-25,Accounting,Second Semester,2.01,Female,22
+ST0106,2025-03-24,Accounting,Second Semester,3.08,Male,25
+ST0107,2022-03-26,Business,Second Semester,2.97,Female,23
+ST0108,2024-10-01,Education,Second Semester,3.45,Female,20
+ST0109,2024-06-28,Engineering,First Semester,3.81,Male,19
+ST0110,2024-08-09,Accounting,First Semester,3.73,Male,18
+ST0111,2022-06-17,Accounting,Second Semester,2.42,Female,23
+ST0112,2025-04-08,Accounting,Second Semester,3.5,Female,22
+ST0113,2025-09-06,Computer Science,Second Semester,2.04,Male,23
+ST0114,2022-04-05,Education,First Semester,3.56,Male,30
+ST0115,2021-03-05,Information Technology,First Semester,3.68,Male,21
+ST0116,2021-09-16,Accounting,Summer,2.23,Male,25
+ST0117,2024-12-03,Business,Second Semester,2.34,Male,30
+ST0118,2025-08-05,Information Technology,Second Semester,2.22,Male,22
+ST0119,2024-03-25,Education,Second Semester,2.79,Male,19
+ST0120,2024-04-27,Education,Summer,2.49,Female,28
+ST0121,2024-05-14,Computer Science,Summer,3.57,Female,26
+ST0122,2023-05-28,Education,Second Semester,2.14,Female,18
+ST0123,2025-10-06,Accounting,Second Semester,2.21,Female,28
+ST0124,2025-12-31,Accounting,Summer,2.31,Male,29
+ST0125,2023-12-05,Education,Second Semester,3.23,Female,25
+ST0126,2023-06-12,Education,Summer,2.54,Male,19
+ST0127,2022-07-26,Accounting,First Semester,3.5,Female,23
+ST0128,2021-02-28,Accounting,Second Semester,2.36,Male,23
+ST0129,2025-06-22,Business,Second Semester,2.56,Female,26
+ST0130,2021-01-21,Engineering,First Semester,2.17,Female,25
+ST0131,2024-02-12,Information Technology,Summer,2.95,Female,25
+ST0132,2025-06-12,Computer Science,First Semester,2.59,Female,29
+ST0133,2022-05-14,Business,Summer,3.16,Female,26
+ST0134,2023-12-24,Business,Second Semester,3.99,Female,23
+ST0135,2024-12-10,Accounting,Second Semester,2.61,Male,19
+ST0136,2025-01-17,Information Technology,Second Semester,2.24,Male,21
+ST0137,2022-03-20,Education,Second Semester,2.55,Female,19
+ST0138,2025-09-02,Information Technology,Second Semester,2.45,Male,22
+ST0139,2021-01-29,Education,Summer,2.25,Male,18
+ST0140,2024-02-08,Business,Summer,3.89,Female,19
+ST0141,2025-11-23,Computer Science,Summer,2.57,Female,25
+ST0142,2022-11-29,Information Technology,First Semester,2.5,Female,19
+ST0143,2025-08-11,Computer Science,Second Semester,2.98,Male,20
+ST0144,2021-11-02,Engineering,Second Semester,2.17,Male,19
+ST0145,2024-02-17,Accounting,Summer,3.19,Male,30
+ST0146,2023-12-07,Accounting,Second Semester,3.82,Female,27
+ST0147,2023-05-29,Business,Summer,3.24,Male,30
+ST0148,2022-03-02,Education,First Semester,2.53,Male,20
+ST0149,2022-05-07,Information Technology,Summer,2.15,Male,24
+ST0150,2023-07-12,Education,Summer,2.94,Male,21
+ST0151,2022-08-14,Education,Second Semester,3.41,Female,19
+ST0152,2024-11-08,Information Technology,Second Semester,3.58,Male,24
+ST0153,2021-08-24,Engineering,First Semester,3.3,Female,20
+ST0154,2021-05-27,Computer Science,First Semester,3.59,Female,25
+ST0155,2021-09-12,Accounting,Summer,2.61,Female,22
+ST0156,2023-10-22,Engineering,Second Semester,2.88,Male,24
+ST0157,2025-02-13,Business,Summer,2.5,Male,21
+ST0158,2024-10-12,Engineering,Summer,3.9,Female,27
+ST0159,2021-03-24,Information Technology,Second Semester,3.04,Female,22
+ST0160,2022-01-07,Engineering,Second Semester,3.27,Female,19
+ST0161,2023-08-21,Business,Second Semester,2.67,Male,20
+ST0162,2022-11-07,Accounting,Summer,2.99,Female,30
+ST0163,2024-02-01,Computer Science,Second Semester,2.18,Female,23
+ST0164,2021-08-26,Accounting,Summer,3.65,Male,28
+ST0165,2025-11-16,Engineering,Second Semester,2.83,Male,26
+ST0166,2023-01-11,Engineering,Second Semester,3.25,Male,21
+ST0167,2022-07-01,Engineering,First Semester,3.86,Female,29
+ST0168,2023-09-20,Computer Science,First Semester,3.95,Male,29
+ST0169,2021-11-21,Business,Summer,2.03,Female,19
+ST0170,2022-04-06,Computer Science,Second Semester,3.89,Male,25
+ST0171,2025-01-07,Business,Summer,3.41,Female,25
+ST0172,2023-08-26,Information Technology,Second Semester,3.1,Female,21
+ST0173,2024-05-12,Engineering,Summer,3.76,Male,22
+ST0174,2025-05-02,Accounting,Second Semester,3.87,Female,18
+ST0175,2022-08-03,Education,Second Semester,3.67,Female,20
+ST0176,2023-07-04,Engineering,Second Semester,2.69,Female,25
+ST0177,2022-10-22,Information Technology,Summer,2.48,Female,21
+ST0178,2025-10-20,Accounting,First Semester,2.64,Female,29
+ST0179,2025-07-20,Accounting,Second Semester,3.98,Male,25
+ST0180,2021-03-17,Information Technology,Summer,3.93,Female,19
+ST0181,2025-11-26,Accounting,First Semester,3.05,Female,18
+ST0182,2025-01-19,Information Technology,Second Semester,3.74,Male,19
+ST0183,2023-08-20,Business,Second Semester,3.25,Female,28
+ST0184,2021-06-14,Business,Summer,3.72,Female,23
+ST0185,2024-07-07,Education,Second Semester,3.74,Male,27
+ST0186,2021-05-21,Information Technology,Summer,3.37,Female,21
+ST0187,2025-03-10,Computer Science,Second Semester,3.96,Male,25
+ST0188,2021-12-07,Education,Second Semester,3.81,Male,23
+ST0189,2025-06-19,Computer Science,Second Semester,2.72,Female,20
+ST0190,2022-05-16,Engineering,Second Semester,3.13,Male,20
+ST0191,2021-12-25,Computer Science,Summer,3.74,Male,25
+ST0192,2024-04-09,Information Technology,First Semester,2.92,Female,25
+ST0193,2022-06-07,Education,First Semester,3.8,Female,22
+ST0194,2024-10-19,Engineering,First Semester,2.15,Female,27
+ST0195,2022-09-05,Education,Second Semester,3.38,Female,22
+ST0196,2022-02-12,Accounting,Second Semester,2.21,Female,27
+ST0197,2023-01-06,Engineering,Second Semester,3.99,Female,18
+ST0198,2025-08-27,Education,Second Semester,2.55,Male,27
+ST0199,2025-03-07,Accounting,Second Semester,3.55,Male,27
+ST0200,2025-07-01,Business,First Semester,3.27,Female,28
+ST0201,2025-03-28,Education,Summer,3.36,Male,28
+ST0202,2021-07-18,Education,Summer,2.08,Female,18
+ST0203,2024-04-01,Business,Summer,2.26,Female,23
+ST0204,2025-03-11,Accounting,First Semester,2.4,Female,26
+ST0205,2023-10-25,Business,First Semester,2.51,Female,30
+ST0206,2022-08-28,Education,Second Semester,3.61,Female,19
+ST0207,2021-10-16,Information Technology,Summer,3.45,Female,30
+ST0208,2024-02-16,Business,First Semester,3.58,Male,22
+ST0209,2024-01-04,Computer Science,Second Semester,2.74,Female,27
+ST0210,2023-02-20,Education,Second Semester,2.22,Male,25
+ST0211,2021-02-21,Engineering,Summer,2.66,Male,28
+ST0212,2021-05-10,Education,Second Semester,3.82,Female,28
+ST0213,2023-04-17,Computer Science,First Semester,2.09,Male,22
+ST0214,2023-10-06,Computer Science,First Semester,2.47,Male,24
+ST0215,2023-07-19,Business,Summer,3.9,Female,27
+ST0216,2025-03-01,Education,First Semester,3.77,Male,25
+ST0217,2024-06-14,Accounting,Second Semester,2.07,Female,21
+ST0218,2023-06-28,Accounting,First Semester,3.71,Male,28
+ST0219,2023-01-23,Engineering,Summer,2.72,Female,22
+ST0220,2022-01-24,Computer Science,Second Semester,2.18,Male,28
+ST0221,2024-08-02,Engineering,First Semester,2.1,Female,21
+ST0222,2021-09-15,Engineering,First Semester,2.14,Male,27
+ST0223,2022-03-19,Information Technology,Second Semester,3.55,Male,22
+ST0224,2025-10-25,Information Technology,First Semester,3.08,Male,19
+ST0225,2024-09-15,Computer Science,First Semester,2.03,Male,27
+ST0226,2022-10-26,Computer Science,First Semester,2.53,Male,29
+ST0227,2023-05-13,Engineering,First Semester,3.49,Female,25
+ST0228,2025-05-13,Business,Summer,3.19,Female,26
+ST0229,2022-03-30,Engineering,First Semester,3.45,Female,25
+ST0230,2024-08-10,Computer Science,First Semester,4.0,Female,24
+ST0231,2024-11-06,Computer Science,Second Semester,3.42,Female,19
+ST0232,2021-06-15,Business,Summer,2.3,Male,22
+ST0233,2024-07-02,Education,Summer,3.1,Female,24
+ST0234,2024-05-08,Engineering,Second Semester,2.91,Female,19
+ST0235,2025-06-13,Education,First Semester,3.71,Male,24
+ST0236,2023-07-14,Information Technology,Second Semester,2.68,Female,24
+ST0237,2023-05-02,Education,First Semester,2.63,Female,28
+ST0238,2022-06-07,Business,First Semester,3.37,Female,19
+ST0239,2021-07-06,Computer Science,First Semester,2.86,Female,30
+ST0240,2021-09-24,Engineering,First Semester,3.17,Female,28
+ST0241,2021-09-08,Accounting,Second Semester,3.75,Female,29
+ST0242,2021-04-16,Business,Summer,2.62,Male,27
+ST0243,2023-11-06,Information Technology,First Semester,3.31,Male,19
+ST0244,2022-12-19,Engineering,Second Semester,2.23,Female,27
+ST0245,2022-04-09,Accounting,Summer,3.95,Male,27
+ST0246,2024-09-09,Education,Second Semester,2.06,Female,29
+ST0247,2025-04-11,Business,Second Semester,2.7,Male,20
+ST0248,2024-03-05,Education,Second Semester,2.14,Male,19
+ST0249,2025-03-09,Engineering,First Semester,2.75,Female,23
+ST0250,2021-11-19,Business,Second Semester,3.44,Male,18
+ST0251,2021-11-15,Information Technology,Summer,2.1,Male,22
+ST0252,2023-06-27,Education,Second Semester,2.97,Female,24
+ST0253,2022-07-14,Information Technology,Summer,2.23,Female,19
+ST0254,2022-08-04,Education,Summer,3.19,Female,18
+ST0255,2022-03-28,Accounting,Summer,2.11,Male,22
+ST0256,2022-03-09,Information Technology,Second Semester,2.58,Male,18
+ST0257,2023-10-16,Education,Second Semester,2.35,Female,26
+ST0258,2024-12-12,Information Technology,Summer,3.12,Female,19
+ST0259,2023-03-25,Education,First Semester,2.87,Female,19
+ST0260,2025-11-01,Business,Summer,2.86,Female,29
+ST0261,2024-08-04,Accounting,Second Semester,2.23,Male,23
+ST0262,2021-12-18,Engineering,Second Semester,3.66,Female,19
+ST0263,2023-06-14,Computer Science,First Semester,2.87,Female,26
+ST0264,2021-06-11,Accounting,Second Semester,3.49,Male,23
+ST0265,2025-05-15,Information Technology,First Semester,3.02,Male,26
+ST0266,2023-11-11,Information Technology,Second Semester,2.7,Male,21
+ST0267,2021-07-30,Information Technology,Second Semester,2.39,Male,30
+ST0268,2025-04-04,Education,First Semester,2.35,Female,25
+ST0269,2025-03-26,Engineering,Summer,2.9,Female,28
+ST0270,2022-10-10,Information Technology,Second Semester,2.14,Female,28
+ST0271,2022-09-13,Business,Summer,2.11,Male,22
+ST0272,2023-08-04,Accounting,First Semester,2.11,Female,19
+ST0273,2024-08-13,Computer Science,Summer,3.19,Female,25
+ST0274,2024-04-03,Engineering,Summer,3.79,Female,30
+ST0275,2024-03-16,Education,First Semester,2.64,Female,26
+ST0276,2021-11-05,Computer Science,Second Semester,2.21,Female,29
+ST0277,2021-06-22,Engineering,Summer,2.35,Male,29
+ST0278,2023-06-16,Accounting,Summer,3.05,Male,23
+ST0279,2023-02-03,Business,Second Semester,2.82,Female,28
+ST0280,2024-05-09,Computer Science,Summer,3.29,Male,23
+ST0281,2021-07-13,Engineering,Summer,2.77,Female,29
+ST0282,2025-10-11,Education,Summer,3.75,Female,19
+ST0283,2024-04-08,Education,First Semester,3.83,Female,28
+ST0284,2024-12-01,Education,Second Semester,2.26,Male,22
+ST0285,2024-02-19,Accounting,Summer,3.58,Male,28
+ST0286,2024-12-10,Education,Summer,3.82,Male,28
+ST0287,2024-10-05,Accounting,Summer,2.72,Female,22
+ST0288,2022-01-05,Information Technology,Second Semester,3.9,Female,21
+ST0289,2022-04-09,Information Technology,First Semester,2.15,Male,26
+ST0290,2025-04-28,Engineering,Summer,3.77,Male,28
+ST0291,2022-11-21,Engineering,First Semester,3.19,Male,20
+ST0292,2022-01-06,Education,Summer,3.62,Male,29
+ST0293,2023-06-16,Computer Science,Second Semester,2.73,Male,25
+ST0294,2024-06-04,Business,Summer,3.57,Male,26
+ST0295,2022-05-05,Business,Second Semester,3.81,Male,23
+ST0296,2024-10-21,Engineering,Second Semester,2.92,Female,30
+ST0297,2023-02-22,Engineering,Summer,2.84,Male,21
+ST0298,2025-06-29,Engineering,First Semester,3.75,Male,28
+ST0299,2023-09-12,Business,Summer,3.87,Male,22
+ST0300,2021-06-21,Information Technology,Second Semester,2.9,Male,24
+ST0301,2021-07-07,Information Technology,Second Semester,3.77,Male,24
+ST0302,2021-04-20,Accounting,Summer,2.75,Female,19
+ST0303,2023-02-07,Information Technology,First Semester,2.64,Male,29
+ST0304,2024-08-24,Business,First Semester,2.28,Female,25
+ST0305,2024-11-26,Information Technology,Summer,2.94,Male,19
+ST0306,2021-02-08,Business,First Semester,3.67,Female,19
+ST0307,2025-05-09,Business,First Semester,2.6,Male,21
+ST0308,2023-05-10,Education,Summer,2.91,Male,25
+ST0309,2024-05-07,Engineering,First Semester,3.26,Male,29
+ST0310,2021-10-22,Business,Second Semester,2.0,Female,21
+ST0311,2024-03-14,Accounting,First Semester,3.33,Male,26
+ST0312,2023-01-09,Computer Science,Summer,3.09,Male,24
+ST0313,2025-11-24,Accounting,First Semester,3.27,Female,22
+ST0314,2025-03-11,Computer Science,Second Semester,3.58,Female,21
+ST0315,2025-02-10,Education,Summer,2.21,Female,20
+ST0316,2021-04-01,Business,Summer,2.68,Male,30
+ST0317,2024-11-03,Accounting,Summer,2.96,Male,30
+ST0318,2021-10-04,Computer Science,Summer,3.55,Female,18
+ST0319,2022-08-24,Information Technology,First Semester,3.58,Male,23
+ST0320,2022-09-28,Engineering,Second Semester,3.98,Female,22
+ST0321,2021-03-16,Education,First Semester,2.57,Male,28
+ST0322,2022-11-11,Business,First Semester,3.6,Female,24
+ST0323,2025-03-03,Accounting,Second Semester,2.68,Male,25
+ST0324,2024-11-18,Accounting,Second Semester,3.85,Female,30
+ST0325,2021-06-19,Education,Second Semester,2.16,Male,26
+ST0326,2022-08-25,Business,First Semester,2.16,Female,22
+ST0327,2023-07-03,Engineering,Summer,2.85,Female,23
+ST0328,2023-07-05,Computer Science,Summer,3.74,Female,27
+ST0329,2023-06-10,Business,Summer,3.96,Male,19
+ST0330,2024-10-06,Education,Second Semester,2.73,Male,18
+ST0331,2021-10-20,Engineering,Summer,3.56,Male,20
+ST0332,2021-05-18,Information Technology,Summer,2.73,Female,27
+ST0333,2021-03-08,Engineering,First Semester,3.36,Female,23
+ST0334,2023-06-29,Computer Science,Summer,2.28,Female,24
+ST0335,2022-10-06,Education,Second Semester,2.5,Male,18
+ST0336,2025-02-15,Information Technology,Second Semester,3.04,Male,22
+ST0337,2025-05-07,Business,Summer,2.89,Female,29
+ST0338,2023-10-03,Information Technology,First Semester,2.27,Male,25
+ST0339,2021-12-20,Education,Second Semester,3.99,Female,28
+ST0340,2022-12-13,Education,First Semester,3.1,Female,22
+ST0341,2025-10-10,Information Technology,Summer,3.42,Male,30
+ST0342,2023-01-11,Engineering,First Semester,2.24,Male,30
+ST0343,2021-10-12,Information Technology,Second Semester,2.05,Female,25
+ST0344,2025-07-04,Engineering,First Semester,3.22,Male,19
+ST0345,2022-09-26,Accounting,Summer,3.44,Female,30
+ST0346,2023-04-19,Engineering,First Semester,2.25,Female,28
+ST0347,2021-06-01,Accounting,Second Semester,3.36,Female,20
+ST0348,2025-12-04,Engineering,Summer,3.18,Male,24
+ST0349,2023-10-27,Computer Science,First Semester,3.04,Female,20
+ST0350,2021-11-28,Business,Summer,2.45,Female,19
+ST0351,2022-05-29,Information Technology,Summer,3.91,Female,20
+ST0352,2024-07-04,Business,Summer,3.07,Male,27
+ST0353,2024-04-04,Information Technology,First Semester,3.32,Female,27
+ST0354,2021-03-26,Computer Science,First Semester,2.09,Female,28
+ST0355,2022-03-08,Engineering,Second Semester,3.24,Male,25
+ST0356,2025-12-26,Education,Summer,2.58,Female,25
+ST0357,2022-05-17,Education,Second Semester,2.59,Male,29
+ST0358,2021-05-03,Information Technology,Second Semester,2.83,Female,21
+ST0359,2022-11-28,Engineering,First Semester,2.63,Female,29
+ST0360,2025-10-29,Business,Second Semester,2.26,Female,26
+ST0361,2024-02-25,Computer Science,Second Semester,2.48,Male,22
+ST0362,2023-07-10,Information Technology,First Semester,2.19,Female,24
+ST0363,2025-11-05,Engineering,Second Semester,2.5,Male,23
+ST0364,2024-03-29,Education,Second Semester,2.38,Male,25
+ST0365,2023-11-21,Accounting,Second Semester,3.76,Female,18
+ST0366,2021-07-04,Accounting,Summer,2.91,Male,21
+ST0367,2024-04-09,Business,First Semester,2.1,Female,27
+ST0368,2025-12-13,Education,Summer,2.94,Male,19
+ST0369,2023-06-02,Information Technology,Second Semester,3.46,Female,23
+ST0370,2021-04-03,Accounting,First Semester,3.14,Male,23
+ST0371,2024-02-08,Business,First Semester,2.77,Female,30
+ST0372,2024-02-01,Business,Summer,3.36,Male,20
+ST0373,2021-07-18,Accounting,Second Semester,3.59,Female,26
+ST0374,2023-01-19,Information Technology,First Semester,3.2,Female,26
+ST0375,2021-03-24,Computer Science,First Semester,2.27,Female,30
+ST0376,2023-08-29,Engineering,Second Semester,2.3,Male,23
+ST0377,2024-06-09,Business,First Semester,2.79,Female,27
+ST0378,2022-11-20,Engineering,Summer,3.06,Female,25
+ST0379,2025-07-29,Computer Science,Second Semester,2.66,Male,24
+ST0380,2024-04-10,Business,Summer,3.74,Male,27
+ST0381,2023-08-30,Business,Summer,3.57,Male,29
+ST0382,2021-04-16,Engineering,Second Semester,2.34,Female,20
+ST0383,2025-08-10,Education,First Semester,2.06,Male,21
+ST0384,2021-02-08,Accounting,Second Semester,2.84,Female,29
+ST0385,2022-02-22,Accounting,Summer,3.55,Female,29
+ST0386,2025-01-29,Computer Science,Summer,2.28,Male,26
+ST0387,2022-10-28,Education,Second Semester,3.05,Female,20
+ST0388,2023-07-31,Engineering,Second Semester,3.09,Female,27
+ST0389,2023-09-19,Information Technology,First Semester,2.56,Female,21
+ST0390,2022-09-02,Business,Summer,2.41,Female,23
+ST0391,2023-09-10,Business,Summer,3.87,Female,22
+ST0392,2021-09-07,Engineering,Summer,3.09,Female,23
+ST0393,2025-05-03,Information Technology,Second Semester,2.08,Male,23
+ST0394,2023-06-25,Education,Second Semester,3.49,Male,21
+ST0395,2025-08-23,Engineering,Second Semester,3.87,Female,20
+ST0396,2021-08-12,Engineering,Summer,3.17,Male,18
+ST0397,2024-10-03,Engineering,First Semester,3.28,Male,19
+ST0398,2023-04-27,Business,Summer,2.94,Male,18
+ST0399,2024-02-02,Information Technology,Second Semester,3.31,Female,25
+ST0400,2024-08-25,Information Technology,Second Semester,2.64,Male,30
+ST0401,2021-07-03,Education,Summer,2.46,Male,20
+ST0402,2023-05-06,Information Technology,First Semester,3.99,Female,30
+ST0403,2023-10-12,Information Technology,Summer,3.92,Female,18
+ST0404,2021-01-19,Business,Summer,3.21,Female,22
+ST0405,2023-07-20,Education,Summer,3.05,Male,26
+ST0406,2023-08-17,Business,First Semester,3.62,Female,20
+ST0407,2025-02-06,Accounting,Summer,2.51,Male,18
+ST0408,2025-02-17,Business,Second Semester,3.14,Male,20
+ST0409,2024-06-05,Education,Second Semester,3.65,Female,19
+ST0410,2023-04-01,Education,First Semester,2.37,Male,25
+ST0411,2022-10-25,Information Technology,First Semester,2.52,Male,25
+ST0412,2025-03-24,Business,Second Semester,2.6,Male,22
+ST0413,2024-08-31,Business,Summer,2.47,Male,25
+ST0414,2022-09-21,Information Technology,Second Semester,3.37,Female,29
+ST0415,2021-08-29,Education,Second Semester,2.74,Male,21
+ST0416,2021-10-01,Accounting,First Semester,2.91,Female,24
+ST0417,2024-12-08,Engineering,Second Semester,3.51,Male,30
+ST0418,2022-05-22,Education,Summer,3.75,Male,26
+ST0419,2023-07-04,Engineering,Summer,2.72,Male,18
+ST0420,2025-08-25,Engineering,Summer,2.4,Male,20
+ST0421,2022-11-03,Engineering,Second Semester,2.23,Male,29
+ST0422,2024-04-09,Accounting,First Semester,3.8,Female,30
+ST0423,2021-04-24,Accounting,First Semester,3.03,Female,27
+ST0424,2021-04-29,Engineering,Second Semester,3.35,Female,29
+ST0425,2021-02-14,Accounting,Second Semester,3.63,Male,27
+ST0426,2021-05-30,Computer Science,Second Semester,2.69,Male,26
+ST0427,2021-05-04,Computer Science,Second Semester,2.06,Female,20
+ST0428,2025-04-24,Information Technology,Summer,3.96,Female,23
+ST0429,2025-12-31,Accounting,Second Semester,3.74,Female,24
+ST0430,2021-06-14,Education,Summer,3.75,Male,28
+ST0431,2025-10-28,Business,First Semester,2.36,Female,26
+ST0432,2021-09-18,Education,First Semester,3.67,Male,22
+ST0433,2023-08-07,Education,Summer,3.09,Female,21
+ST0434,2022-05-22,Accounting,Second Semester,2.31,Male,29
+ST0435,2025-04-17,Computer Science,First Semester,3.62,Female,27
+ST0436,2025-04-18,Computer Science,First Semester,2.41,Male,27
+ST0437,2021-03-10,Accounting,Summer,3.34,Male,21
+ST0438,2025-02-25,Computer Science,Second Semester,2.88,Male,30
+ST0439,2025-11-04,Computer Science,First Semester,3.01,Female,21
+ST0440,2025-07-29,Education,Summer,2.64,Female,21
+ST0441,2022-09-11,Information Technology,Summer,3.04,Female,22
+ST0442,2022-07-18,Computer Science,Summer,3.9,Male,28
+ST0443,2024-10-22,Accounting,Summer,2.99,Female,28
+ST0444,2024-10-06,Accounting,Summer,2.64,Female,24
+ST0445,2021-11-02,Business,Second Semester,2.37,Female,21
+ST0446,2025-10-06,Information Technology,Second Semester,3.72,Male,30
+ST0447,2023-08-07,Computer Science,Summer,2.83,Female,26
+ST0448,2023-12-22,Information Technology,Second Semester,2.49,Male,23
+ST0449,2024-08-17,Computer Science,Second Semester,3.69,Male,26
+ST0450,2025-01-23,Information Technology,First Semester,2.54,Male,19
+ST0451,2022-01-21,Engineering,Summer,3.34,Male,25
+ST0452,2022-03-04,Business,Second Semester,3.91,Male,21
+ST0453,2022-01-25,Education,First Semester,3.49,Female,21
+ST0454,2024-11-25,Engineering,Summer,2.41,Male,26
+ST0455,2022-10-21,Business,Second Semester,2.93,Female,22
+ST0456,2022-06-20,Business,Summer,3.77,Female,19
+ST0457,2025-07-03,Education,Second Semester,3.52,Female,21
+ST0458,2023-01-30,Business,Second Semester,2.09,Male,29
+ST0459,2021-10-26,Computer Science,Second Semester,3.11,Female,22
+ST0460,2021-11-09,Information Technology,Second Semester,2.46,Male,25
+ST0461,2024-02-02,Education,Summer,2.68,Female,29
+ST0462,2024-08-07,Education,Second Semester,2.92,Female,20
+ST0463,2021-10-14,Education,Summer,2.98,Male,26
+ST0464,2021-03-11,Computer Science,Summer,2.1,Male,24
+ST0465,2021-10-09,Education,First Semester,2.14,Male,18
+ST0466,2022-03-24,Engineering,Second Semester,2.75,Female,28
+ST0467,2023-09-27,Computer Science,First Semester,3.06,Female,18
+ST0468,2021-02-04,Engineering,Summer,2.55,Female,18
+ST0469,2023-10-26,Education,Summer,2.86,Male,19
+ST0470,2021-07-17,Engineering,First Semester,2.48,Female,23
+ST0471,2022-07-02,Accounting,First Semester,2.75,Female,25
+ST0472,2024-03-03,Information Technology,Summer,2.45,Male,28
+ST0473,2025-10-24,Education,First Semester,2.19,Female,24
+ST0474,2024-02-06,Accounting,First Semester,3.27,Male,19
+ST0475,2023-10-21,Accounting,Summer,3.57,Male,26
+ST0476,2021-03-29,Information Technology,First Semester,3.8,Female,22
+ST0477,2021-04-06,Computer Science,Summer,3.85,Male,20
+ST0478,2025-10-08,Business,First Semester,3.92,Male,30
+ST0479,2025-08-08,Education,Second Semester,3.86,Female,20
+ST0480,2024-02-29,Information Technology,Summer,3.67,Female,28
+ST0481,2024-01-13,Business,Second Semester,3.51,Male,30
+ST0482,2024-11-12,Education,First Semester,3.0,Female,18
+ST0483,2021-07-20,Accounting,First Semester,3.68,Female,27
+ST0484,2025-04-24,Engineering,Summer,2.79,Female,18
+ST0485,2024-07-22,Business,Second Semester,2.98,Female,26
+ST0486,2023-02-08,Accounting,First Semester,3.36,Female,19
+ST0487,2025-05-01,Engineering,Second Semester,3.6,Male,19
+ST0488,2022-07-03,Information Technology,Second Semester,3.42,Male,29
+ST0489,2023-03-09,Business,Second Semester,2.21,Male,22
+ST0490,2023-06-30,Business,Second Semester,2.2,Male,20
+ST0491,2023-06-02,Accounting,Summer,3.11,Female,19
+ST0492,2021-02-23,Computer Science,Second Semester,3.11,Female,24
+ST0493,2021-01-26,Business,Second Semester,2.78,Male,29
+ST0494,2024-02-20,Information Technology,Summer,3.04,Female,20
+ST0495,2021-10-12,Business,Second Semester,2.54,Male,19
+ST0496,2021-12-09,Accounting,Second Semester,2.84,Female,30
+ST0497,2021-06-07,Business,Second Semester,3.89,Female,27
+ST0498,2024-06-16,Information Technology,Second Semester,2.21,Female,18
+ST0499,2023-03-22,Business,Summer,2.76,Female,25
+ST0500,2022-11-17,Accounting,Summer,3.95,Male,22
+ST0501,2022-10-19,Engineering,Summer,2.4,Female,20
+ST0502,2023-03-27,Business,Second Semester,3.47,Female,27
+ST0503,2025-05-21,Information Technology,Second Semester,2.75,Female,23
+ST0504,2021-08-22,Engineering,First Semester,3.18,Male,28
+ST0505,2025-04-22,Engineering,First Semester,3.91,Female,29
+ST0506,2022-03-06,Accounting,Second Semester,3.66,Male,30
+ST0507,2025-06-17,Accounting,Summer,3.0,Female,21
+ST0508,2022-06-02,Education,First Semester,3.43,Female,19
+ST0509,2023-07-09,Engineering,Second Semester,3.16,Female,26
+ST0510,2021-03-17,Business,Summer,3.79,Male,19
+ST0511,2025-04-24,Information Technology,Summer,3.33,Male,28
+ST0512,2024-06-08,Computer Science,Summer,3.97,Female,30
+ST0513,2022-11-11,Accounting,First Semester,2.02,Female,21
+ST0514,2023-11-12,Education,Summer,3.12,Male,25
+ST0515,2023-02-06,Accounting,Second Semester,3.54,Male,23
+ST0516,2021-02-20,Accounting,First Semester,2.59,Male,19
+ST0517,2025-08-30,Education,First Semester,2.7,Female,25
+ST0518,2025-05-26,Information Technology,Summer,2.97,Female,19
+ST0519,2023-06-17,Education,Summer,2.9,Male,22
+ST0520,2021-04-02,Education,First Semester,2.05,Female,28
+ST0521,2021-08-12,Education,First Semester,3.86,Male,26
+ST0522,2021-12-24,Engineering,First Semester,2.66,Female,25
+ST0523,2022-04-20,Accounting,Summer,2.37,Female,24
+ST0524,2021-03-01,Education,Summer,3.77,Female,27
+ST0525,2023-05-30,Accounting,First Semester,3.41,Male,22
+ST0526,2025-03-21,Education,First Semester,3.15,Male,23
+ST0527,2022-10-30,Information Technology,Second Semester,2.23,Female,26
+ST0528,2024-08-01,Business,Summer,2.78,Female,27
+ST0529,2021-08-22,Business,Second Semester,3.69,Male,28
+ST0530,2024-12-16,Business,Summer,3.18,Male,23
+ST0531,2021-08-30,Information Technology,Second Semester,2.23,Female,29
+ST0532,2021-10-17,Engineering,Second Semester,2.84,Male,27
+ST0533,2023-02-25,Accounting,First Semester,2.97,Male,26
+ST0534,2021-12-08,Accounting,Second Semester,2.28,Female,25
+ST0535,2024-06-22,Computer Science,Second Semester,3.9,Female,20
+ST0536,2022-02-04,Accounting,Summer,3.01,Female,24
+ST0537,2024-11-03,Accounting,Second Semester,3.42,Female,25
+ST0538,2021-12-09,Computer Science,Summer,2.06,Male,22
+ST0539,2021-03-08,Business,First Semester,3.08,Male,30
+ST0540,2023-07-26,Engineering,Summer,3.55,Female,26
+ST0541,2023-11-13,Computer Science,Summer,2.23,Female,26
+ST0542,2025-08-12,Computer Science,Summer,2.88,Male,24
+ST0543,2021-07-29,Education,Summer,3.5,Female,18
+ST0544,2023-07-11,Business,Second Semester,3.72,Male,25
+ST0545,2025-11-08,Computer Science,First Semester,2.42,Female,29
+ST0546,2024-06-03,Education,Second Semester,2.33,Male,30
+ST0547,2022-02-28,Information Technology,First Semester,3.14,Female,27
+ST0548,2024-01-09,Information Technology,Second Semester,3.96,Female,22
+ST0549,2024-03-18,Business,Summer,3.97,Male,20
+ST0550,2025-03-17,Accounting,First Semester,3.98,Male,29
+ST0551,2025-11-09,Information Technology,First Semester,2.29,Female,21
+ST0552,2025-04-09,Education,Second Semester,2.98,Female,28
+ST0553,2023-04-29,Accounting,Second Semester,2.15,Male,24
+ST0554,2023-11-22,Education,Second Semester,3.39,Female,25
+ST0555,2023-09-27,Business,Summer,2.0,Male,29
+ST0556,2023-07-28,Education,Summer,3.39,Male,30
+ST0557,2023-12-31,Accounting,First Semester,3.94,Male,25
+ST0558,2022-07-04,Business,Second Semester,2.68,Male,27
+ST0559,2025-10-12,Accounting,Second Semester,3.79,Male,18
+ST0560,2021-07-23,Education,Second Semester,2.03,Male,25
+ST0561,2023-07-24,Computer Science,Second Semester,2.4,Male,28
+ST0562,2022-09-11,Information Technology,Second Semester,2.19,Female,22
+ST0563,2021-06-18,Business,Summer,3.81,Male,18
+ST0564,2023-03-23,Education,Second Semester,3.45,Male,24
+ST0565,2024-09-04,Computer Science,Summer,2.19,Male,25
+ST0566,2021-06-09,Information Technology,Summer,2.45,Female,18
+ST0567,2021-01-17,Education,Second Semester,3.63,Female,29
+ST0568,2021-09-28,Accounting,First Semester,2.46,Male,29
+ST0569,2025-07-09,Computer Science,First Semester,2.63,Female,20
+ST0570,2023-02-23,Information Technology,Summer,3.99,Male,19
+ST0571,2023-12-23,Engineering,First Semester,3.22,Male,25
+ST0572,2022-12-21,Education,First Semester,3.26,Male,24
+ST0573,2024-06-15,Education,Second Semester,3.72,Male,19
+ST0574,2021-10-14,Computer Science,Summer,3.46,Female,24
+ST0575,2022-10-07,Information Technology,First Semester,2.55,Male,21
+ST0576,2024-02-08,Engineering,Summer,3.44,Female,30
+ST0577,2024-11-15,Computer Science,Summer,3.75,Male,26
+ST0578,2024-05-27,Engineering,First Semester,3.5,Female,28
+ST0579,2021-04-22,Information Technology,Second Semester,2.77,Male,25
+ST0580,2024-07-30,Engineering,First Semester,3.06,Male,23
+ST0581,2022-10-11,Information Technology,Second Semester,3.72,Female,23
+ST0582,2024-01-24,Education,First Semester,3.53,Male,18
+ST0583,2024-04-17,Computer Science,First Semester,2.52,Male,18
+ST0584,2025-06-05,Accounting,Summer,2.57,Female,24
+ST0585,2024-12-08,Accounting,First Semester,3.28,Male,22
+ST0586,2021-06-21,Business,First Semester,3.02,Male,30
+ST0587,2021-11-15,Engineering,Second Semester,2.78,Male,22
+ST0588,2024-12-01,Accounting,Summer,3.91,Male,18
+ST0589,2022-05-16,Computer Science,Second Semester,2.23,Male,22
+ST0590,2024-09-26,Education,Summer,3.48,Male,18
+ST0591,2024-12-20,Information Technology,Summer,2.02,Female,23
+ST0592,2023-12-08,Engineering,Summer,2.52,Female,20
+ST0593,2025-03-16,Business,Summer,3.77,Male,23
+ST0594,2025-07-11,Accounting,Second Semester,3.05,Female,29
+ST0595,2024-03-26,Education,First Semester,2.99,Female,18
+ST0596,2023-10-21,Engineering,First Semester,2.74,Female,30
+ST0597,2021-07-30,Engineering,Summer,3.45,Male,29
+ST0598,2023-11-09,Computer Science,First Semester,3.72,Male,21
+ST0599,2021-04-05,Accounting,Second Semester,2.77,Male,20
+ST0600,2025-10-23,Computer Science,Summer,3.61,Female,21
+ST0601,2022-10-22,Information Technology,Second Semester,3.83,Female,22
+ST0602,2025-08-19,Computer Science,Summer,2.75,Male,20
+ST0603,2022-04-03,Engineering,First Semester,3.91,Male,25
+ST0604,2025-11-09,Business,Second Semester,2.65,Female,18
+ST0605,2023-01-26,Information Technology,Second Semester,3.13,Female,29
+ST0606,2024-06-29,Information Technology,Second Semester,2.74,Female,30
+ST0607,2025-05-09,Information Technology,Summer,3.8,Male,20
+ST0608,2021-01-14,Accounting,First Semester,2.47,Female,28
+ST0609,2025-09-16,Education,First Semester,3.9,Male,30
+ST0610,2024-09-08,Accounting,Summer,3.45,Male,21
+ST0611,2023-12-22,Information Technology,Second Semester,2.98,Male,20
+ST0612,2024-12-28,Business,First Semester,2.09,Male,26
+ST0613,2023-04-26,Education,Second Semester,2.92,Male,27
+ST0614,2021-07-15,Engineering,First Semester,3.27,Female,19
+ST0615,2024-04-27,Engineering,First Semester,2.87,Male,21
+ST0616,2022-08-21,Business,Second Semester,3.85,Female,29
+ST0617,2025-08-31,Education,Second Semester,2.64,Female,21
+ST0618,2021-06-02,Information Technology,First Semester,3.56,Male,20
+ST0619,2021-08-05,Information Technology,Second Semester,2.93,Female,19
+ST0620,2024-01-03,Business,First Semester,2.9,Female,22
+ST0621,2025-10-12,Computer Science,First Semester,2.32,Female,29
+ST0622,2024-11-28,Engineering,First Semester,2.43,Female,20
+ST0623,2021-07-06,Education,First Semester,3.94,Female,26
+ST0624,2021-04-11,Education,Second Semester,2.52,Male,18
+ST0625,2023-04-09,Accounting,Summer,3.5,Male,19
+ST0626,2023-08-05,Computer Science,First Semester,2.24,Male,30
+ST0627,2022-04-01,Information Technology,First Semester,3.65,Female,28
+ST0628,2024-07-14,Education,First Semester,3.16,Female,19
+ST0629,2021-02-14,Computer Science,First Semester,3.8,Female,30
+ST0630,2021-09-21,Computer Science,Second Semester,2.25,Female,18
+ST0631,2021-12-11,Engineering,Second Semester,3.64,Female,25
+ST0632,2021-03-02,Accounting,Summer,2.85,Female,21
+ST0633,2022-01-19,Business,Second Semester,2.89,Male,18
+ST0634,2024-06-11,Engineering,Summer,2.49,Female,25
+ST0635,2023-04-24,Engineering,Second Semester,2.12,Female,24
+ST0636,2021-10-09,Accounting,First Semester,3.29,Male,28
+ST0637,2025-07-01,Engineering,First Semester,3.98,Female,25
+ST0638,2024-01-21,Accounting,Second Semester,3.83,Female,24
+ST0639,2022-07-08,Information Technology,First Semester,2.64,Male,18
+ST0640,2025-07-19,Business,First Semester,3.62,Female,26
+ST0641,2023-01-03,Engineering,First Semester,3.95,Male,21
+ST0642,2024-09-07,Information Technology,Second Semester,3.07,Male,30
+ST0643,2022-03-26,Engineering,Second Semester,2.71,Male,20
+ST0644,2022-04-30,Engineering,Second Semester,3.61,Female,27
+ST0645,2021-02-27,Education,Summer,2.7,Male,27
+ST0646,2022-01-21,Accounting,Summer,2.62,Female,18
+ST0647,2021-07-04,Computer Science,First Semester,3.2,Male,26
+ST0648,2023-09-06,Computer Science,Second Semester,3.84,Male,30
+ST0649,2021-09-25,Business,Summer,2.35,Female,18
+ST0650,2021-02-14,Information Technology,Summer,3.41,Male,30
+ST0651,2021-08-16,Engineering,Second Semester,3.92,Female,29
+ST0652,2024-09-18,Accounting,Summer,2.2,Female,23
+ST0653,2021-10-07,Information Technology,Summer,3.9,Female,28
+ST0654,2022-10-12,Information Technology,Summer,3.94,Female,21
+ST0655,2024-09-25,Engineering,First Semester,2.76,Female,20
+ST0656,2021-12-30,Education,First Semester,3.9,Female,30
+ST0657,2024-03-08,Computer Science,First Semester,3.2,Male,28
+ST0658,2024-03-04,Computer Science,Second Semester,2.28,Male,21
+ST0659,2022-12-12,Business,First Semester,3.27,Male,29
+ST0660,2024-10-04,Education,Summer,3.77,Female,18
+ST0661,2022-06-28,Information Technology,First Semester,3.39,Female,22
+ST0662,2025-05-31,Computer Science,Summer,2.0,Female,25
+ST0663,2025-02-09,Accounting,First Semester,3.77,Female,24
+ST0664,2022-12-21,Engineering,Second Semester,2.2,Female,30
+ST0665,2025-11-05,Engineering,Summer,3.52,Male,20
+ST0666,2023-07-14,Computer Science,First Semester,2.59,Female,22
+ST0667,2021-08-03,Computer Science,Second Semester,2.34,Female,20
+ST0668,2025-02-08,Computer Science,Summer,3.88,Male,23
+ST0669,2024-05-01,Engineering,Second Semester,3.41,Female,28
+ST0670,2021-12-04,Engineering,Second Semester,2.31,Male,23
+ST0671,2022-02-25,Information Technology,Second Semester,3.39,Female,28
+ST0672,2022-07-31,Business,First Semester,2.19,Female,27
+ST0673,2024-01-31,Accounting,First Semester,2.11,Male,24
+ST0674,2021-06-29,Business,Summer,3.25,Female,21
+ST0675,2021-07-18,Computer Science,First Semester,2.34,Female,19
+ST0676,2023-08-28,Computer Science,Second Semester,3.57,Female,25
+ST0677,2024-09-15,Business,First Semester,3.28,Female,20
+ST0678,2023-01-30,Accounting,Second Semester,2.37,Male,22
+ST0679,2023-06-20,Accounting,Second Semester,2.45,Female,27
+ST0680,2021-05-07,Information Technology,Summer,3.33,Male,28
+ST0681,2022-12-06,Engineering,Second Semester,3.94,Male,26
+ST0682,2021-05-05,Accounting,Summer,2.84,Female,27
+ST0683,2025-12-11,Information Technology,Second Semester,2.6,Female,29
+ST0684,2021-03-13,Engineering,Summer,3.8,Male,19
+ST0685,2025-03-31,Accounting,First Semester,3.9,Male,21
+ST0686,2025-07-14,Information Technology,First Semester,2.09,Male,28
+ST0687,2023-06-11,Information Technology,Summer,2.3,Female,23
+ST0688,2025-01-29,Computer Science,First Semester,2.78,Female,26
+ST0689,2022-10-30,Business,Summer,2.92,Male,30
+ST0690,2024-12-05,Engineering,Summer,3.05,Female,19
+ST0691,2023-04-29,Information Technology,First Semester,3.13,Male,19
+ST0692,2024-02-27,Computer Science,Second Semester,3.73,Female,24
+ST0693,2022-06-25,Accounting,Summer,2.97,Female,18
+ST0694,2021-12-19,Business,Second Semester,2.29,Female,18
+ST0695,2023-03-22,Business,Summer,2.48,Female,22
+ST0696,2023-02-02,Computer Science,Second Semester,3.63,Female,22
+ST0697,2022-07-29,Accounting,Summer,3.37,Male,20
+ST0698,2022-09-08,Education,Second Semester,3.55,Female,22
+ST0699,2025-02-01,Accounting,Summer,3.29,Male,25
+ST0700,2022-03-09,Accounting,Summer,2.97,Female,18
+ST0701,2023-11-22,Information Technology,First Semester,2.62,Female,20
+ST0702,2025-05-18,Engineering,Summer,2.06,Male,21
+ST0703,2025-09-11,Computer Science,First Semester,2.07,Male,23
+ST0704,2024-12-14,Information Technology,Second Semester,2.74,Female,26
+ST0705,2023-03-24,Education,First Semester,3.36,Male,23
+ST0706,2023-09-29,Engineering,Second Semester,2.36,Female,27
+ST0707,2024-02-04,Business,Second Semester,2.33,Female,29
+ST0708,2025-08-29,Education,First Semester,2.57,Female,18
+ST0709,2021-11-30,Engineering,First Semester,3.71,Male,28
+ST0710,2022-02-28,Business,Summer,2.82,Male,30
+ST0711,2025-04-21,Education,First Semester,2.95,Male,28
+ST0712,2021-12-21,Engineering,First Semester,2.45,Female,29
+ST0713,2024-12-23,Education,Second Semester,2.85,Female,23
+ST0714,2023-07-30,Business,First Semester,2.93,Female,27
+ST0715,2021-07-29,Computer Science,Summer,4.0,Female,26
+ST0716,2024-08-18,Engineering,Summer,2.57,Male,25
+ST0717,2021-05-11,Business,Second Semester,3.28,Female,22
+ST0718,2024-09-05,Education,Summer,2.6,Male,26
+ST0719,2025-04-17,Information Technology,First Semester,3.61,Female,28
+ST0720,2022-10-17,Education,First Semester,3.44,Female,22
+ST0721,2022-06-16,Accounting,Second Semester,2.78,Male,27
+ST0722,2024-12-21,Engineering,First Semester,2.69,Male,28
+ST0723,2023-12-31,Education,Second Semester,3.81,Female,26
+ST0724,2022-09-07,Information Technology,Summer,3.75,Male,22
+ST0725,2021-07-19,Accounting,First Semester,3.48,Male,28
+ST0726,2022-11-19,Education,First Semester,2.44,Male,29
+ST0727,2025-11-20,Business,Second Semester,3.58,Female,23
+ST0728,2022-06-18,Engineering,Second Semester,2.93,Male,25
+ST0729,2021-04-20,Education,Summer,3.16,Male,25
+ST0730,2025-12-27,Information Technology,Summer,2.24,Female,26
+ST0731,2022-09-04,Accounting,First Semester,3.74,Male,20
+ST0732,2022-02-15,Business,Second Semester,3.97,Female,20
+ST0733,2022-10-10,Education,First Semester,3.56,Female,23
+ST0734,2024-07-16,Information Technology,Second Semester,3.27,Male,25
+ST0735,2022-07-15,Information Technology,First Semester,3.15,Male,25
+ST0736,2025-05-28,Computer Science,First Semester,3.23,Female,24
+ST0737,2023-05-29,Accounting,Second Semester,2.01,Male,29
+ST0738,2023-02-04,Computer Science,Second Semester,3.51,Male,18
+ST0739,2024-10-17,Computer Science,Summer,3.47,Male,29
+ST0740,2025-12-02,Business,Second Semester,2.26,Female,26
+ST0741,2024-04-20,Business,First Semester,2.13,Male,22
+ST0742,2022-08-19,Accounting,Summer,3.04,Female,24
+ST0743,2025-12-24,Education,First Semester,2.69,Female,23
+ST0744,2025-03-17,Information Technology,First Semester,3.9,Female,18
+ST0745,2022-04-13,Information Technology,Summer,3.97,Male,29
+ST0746,2021-02-14,Engineering,Summer,2.34,Female,29
+ST0747,2024-08-25,Computer Science,Second Semester,3.75,Female,30
+ST0748,2024-01-01,Engineering,First Semester,3.19,Male,28
+ST0749,2021-08-10,Education,First Semester,2.1,Male,24
+ST0750,2023-06-29,Accounting,First Semester,3.09,Female,29
+ST0751,2021-11-10,Information Technology,Summer,3.37,Male,22
+ST0752,2023-05-12,Education,First Semester,3.32,Female,27
+ST0753,2024-05-25,Education,First Semester,2.84,Male,26
+ST0754,2025-01-12,Engineering,First Semester,2.57,Male,25
+ST0755,2022-02-11,Engineering,First Semester,3.56,Male,23
+ST0756,2024-12-11,Accounting,Second Semester,2.32,Female,21
+ST0757,2024-11-10,Accounting,Second Semester,2.47,Male,28
+ST0758,2021-07-02,Computer Science,Summer,3.34,Male,19
+ST0759,2025-05-16,Engineering,First Semester,3.45,Male,22
+ST0760,2024-08-12,Information Technology,Second Semester,3.98,Female,22
+ST0761,2023-08-09,Computer Science,First Semester,3.63,Male,22
+ST0762,2023-01-08,Education,Second Semester,2.85,Male,19
+ST0763,2025-10-10,Computer Science,First Semester,3.7,Male,23
+ST0764,2023-01-03,Accounting,Summer,2.54,Male,23
+ST0765,2025-07-28,Business,First Semester,2.23,Female,25
+ST0766,2022-07-11,Accounting,Summer,3.7,Female,28
+ST0767,2025-12-20,Information Technology,First Semester,2.27,Male,20
+ST0768,2021-08-01,Accounting,Summer,2.97,Female,20
+ST0769,2024-06-05,Accounting,Second Semester,3.22,Male,25
+ST0770,2023-09-27,Computer Science,Second Semester,2.88,Male,22
+ST0771,2024-09-03,Business,First Semester,3.41,Male,28
+ST0772,2025-11-24,Business,Summer,3.05,Male,24
+ST0773,2024-09-17,Education,First Semester,2.96,Female,20
+ST0774,2025-09-15,Engineering,Summer,2.11,Male,26
+ST0775,2025-10-05,Accounting,Second Semester,3.74,Male,30
+ST0776,2023-10-04,Business,First Semester,2.66,Female,18
+ST0777,2023-11-05,Information Technology,Summer,3.29,Female,21
+ST0778,2021-06-11,Accounting,Second Semester,3.6,Female,19
+ST0779,2025-10-21,Accounting,Second Semester,2.63,Female,29
+ST0780,2024-08-31,Computer Science,First Semester,2.81,Male,26
+ST0781,2024-01-30,Computer Science,First Semester,3.58,Female,26
+ST0782,2024-02-26,Information Technology,Summer,3.34,Female,23
+ST0783,2025-08-18,Computer Science,First Semester,3.69,Female,26
+ST0784,2025-04-21,Engineering,Summer,2.95,Female,29
+ST0785,2023-07-16,Computer Science,First Semester,3.52,Male,18
+ST0786,2022-12-01,Business,Summer,3.93,Female,26
+ST0787,2023-12-06,Business,Summer,2.21,Male,25
+ST0788,2021-10-15,Education,Summer,3.44,Male,22
+ST0789,2024-06-05,Information Technology,First Semester,2.24,Female,21
+ST0790,2023-07-26,Information Technology,Summer,2.68,Female,18
+ST0791,2024-07-20,Education,Summer,2.25,Female,25
+ST0792,2024-09-10,Engineering,Summer,2.27,Female,18
+ST0793,2023-12-23,Education,First Semester,3.11,Female,27
+ST0794,2023-09-17,Engineering,First Semester,3.38,Male,29
+ST0795,2025-07-28,Information Technology,First Semester,2.77,Female,26
+ST0796,2025-12-11,Accounting,Second Semester,3.96,Male,22
+ST0797,2023-03-26,Business,Second Semester,2.91,Male,20
+ST0798,2023-04-26,Engineering,Summer,3.77,Female,29
+ST0799,2024-01-27,Business,Summer,3.47,Male,21
+ST0800,2022-03-06,Engineering,Summer,2.58,Female,28
+ST0801,2021-09-29,Education,Summer,3.95,Male,26
+ST0802,2024-01-17,Education,Summer,2.64,Male,30
+ST0803,2022-12-23,Engineering,Second Semester,3.17,Female,28
+ST0804,2025-03-12,Engineering,Second Semester,3.75,Female,30
+ST0805,2021-01-27,Engineering,First Semester,2.05,Male,18
+ST0806,2024-10-04,Computer Science,First Semester,2.53,Male,22
+ST0807,2024-10-31,Business,First Semester,3.68,Female,21
+ST0808,2025-03-24,Engineering,First Semester,2.72,Female,19
+ST0809,2024-06-15,Education,Summer,3.12,Male,29
+ST0810,2024-08-18,Engineering,Second Semester,2.48,Female,29
+ST0811,2024-09-22,Computer Science,Second Semester,2.78,Female,26
+ST0812,2021-04-21,Computer Science,Summer,2.5,Female,21
+ST0813,2024-07-21,Education,Summer,3.3,Male,30
+ST0814,2025-01-24,Information Technology,Second Semester,2.9,Male,20
+ST0815,2021-12-22,Education,Summer,2.24,Male,24
+ST0816,2022-07-26,Engineering,Second Semester,2.26,Female,18
+ST0817,2022-11-08,Accounting,Summer,3.87,Male,20
+ST0818,2022-10-23,Engineering,First Semester,3.55,Female,25
+ST0819,2025-06-06,Engineering,Summer,2.72,Female,26
+ST0820,2022-03-27,Information Technology,Summer,2.14,Male,24
+ST0821,2024-01-18,Engineering,Second Semester,2.18,Male,21
+ST0822,2024-09-20,Business,Second Semester,2.72,Male,30
+ST0823,2024-06-20,Engineering,Second Semester,3.99,Male,19
+ST0824,2024-10-01,Business,Second Semester,2.48,Male,18
+ST0825,2024-10-29,Business,Second Semester,3.83,Male,24
+ST0826,2022-06-10,Engineering,Summer,2.57,Female,26
+ST0827,2025-07-03,Engineering,Second Semester,2.97,Female,28
+ST0828,2022-01-30,Business,Summer,2.16,Male,20
+ST0829,2025-05-03,Engineering,Summer,2.01,Male,21
+ST0830,2024-10-04,Education,First Semester,3.73,Female,19
+ST0831,2022-02-26,Engineering,Summer,3.76,Female,28
+ST0832,2025-07-31,Computer Science,Summer,3.37,Male,25
+ST0833,2025-01-08,Business,First Semester,2.18,Male,20
+ST0834,2025-06-15,Business,Summer,2.14,Male,22
+ST0835,2023-04-15,Accounting,Second Semester,3.26,Female,23
+ST0836,2021-02-04,Accounting,Summer,2.24,Male,28
+ST0837,2025-01-15,Engineering,First Semester,3.51,Male,29
+ST0838,2025-10-04,Computer Science,Second Semester,3.86,Male,22
+ST0839,2025-05-31,Education,Second Semester,3.21,Female,30
+ST0840,2023-06-16,Accounting,Second Semester,3.64,Male,25
+ST0841,2021-11-17,Engineering,First Semester,2.27,Female,30
+ST0842,2025-06-22,Engineering,Second Semester,3.92,Male,22
+ST0843,2024-10-19,Education,Summer,2.75,Male,26
+ST0844,2025-11-27,Engineering,First Semester,2.25,Male,27
+ST0845,2024-05-06,Accounting,Summer,3.1,Male,22
+ST0846,2022-03-07,Education,Summer,3.81,Female,21
+ST0847,2023-04-26,Education,Summer,2.28,Male,21
+ST0848,2024-06-17,Business,First Semester,2.23,Male,30
+ST0849,2024-01-30,Accounting,Summer,3.1,Female,28
+ST0850,2021-05-18,Business,First Semester,2.39,Female,23
+ST0851,2023-01-02,Information Technology,Summer,3.31,Male,22
+ST0852,2024-06-22,Computer Science,First Semester,2.64,Female,23
+ST0853,2024-06-16,Education,Second Semester,3.39,Male,27
+ST0854,2024-03-06,Business,Second Semester,3.92,Male,18
+ST0855,2022-10-04,Information Technology,First Semester,3.42,Female,22
+ST0856,2025-09-17,Business,First Semester,3.36,Female,25
+ST0857,2023-08-06,Accounting,Second Semester,3.55,Female,26
+ST0858,2021-08-11,Information Technology,Summer,3.21,Female,20
+ST0859,2025-12-31,Engineering,First Semester,2.53,Male,29
+ST0860,2021-06-04,Computer Science,Summer,3.26,Female,30
+ST0861,2024-04-23,Information Technology,First Semester,3.1,Female,28
+ST0862,2025-05-07,Information Technology,Second Semester,2.78,Female,20
+ST0863,2023-08-10,Engineering,Summer,2.18,Female,26
+ST0864,2021-01-22,Education,First Semester,3.7,Male,30
+ST0865,2023-11-19,Information Technology,Second Semester,2.32,Male,29
+ST0866,2025-02-08,Accounting,Second Semester,2.08,Female,21
+ST0867,2021-05-09,Business,Second Semester,2.47,Male,26
+ST0868,2025-06-09,Business,Second Semester,2.94,Female,18
+ST0869,2021-03-23,Education,Second Semester,2.21,Female,29
+ST0870,2022-06-24,Engineering,Summer,3.14,Female,28
+ST0871,2023-02-15,Business,Summer,3.31,Male,26
+ST0872,2022-05-31,Accounting,First Semester,3.03,Female,23
+ST0873,2023-09-25,Accounting,Summer,2.01,Male,25
+ST0874,2021-12-06,Information Technology,First Semester,3.03,Female,21
+ST0875,2021-11-04,Information Technology,First Semester,2.72,Male,28
+ST0876,2022-04-17,Accounting,Second Semester,3.44,Female,28
+ST0877,2023-09-08,Accounting,First Semester,3.18,Female,18
+ST0878,2022-05-15,Computer Science,First Semester,3.15,Male,20
+ST0879,2024-07-13,Engineering,First Semester,3.78,Male,18
+ST0880,2021-12-07,Business,First Semester,3.03,Female,27
+ST0881,2024-02-29,Education,First Semester,3.76,Female,19
+ST0882,2022-03-20,Accounting,Summer,3.99,Female,20
+ST0883,2022-03-26,Accounting,Summer,2.29,Male,27
+ST0884,2024-09-12,Engineering,Second Semester,2.34,Female,25
+ST0885,2024-05-06,Engineering,First Semester,2.46,Female,20
+ST0886,2021-08-11,Computer Science,First Semester,3.05,Female,20
+ST0887,2024-05-25,Computer Science,First Semester,2.95,Male,30
+ST0888,2023-12-25,Engineering,First Semester,2.19,Male,27
+ST0889,2024-01-10,Computer Science,Summer,3.3,Female,23
+ST0890,2025-11-27,Computer Science,Summer,3.06,Male,30
+ST0891,2023-09-15,Accounting,Second Semester,3.18,Male,24
+ST0892,2021-10-02,Business,Second Semester,3.53,Male,22
+ST0893,2024-05-10,Engineering,Second Semester,2.52,Male,29
+ST0894,2025-03-03,Computer Science,Summer,3.05,Male,24
+ST0895,2024-09-02,Information Technology,Summer,3.61,Female,23
+ST0896,2021-08-07,Information Technology,Second Semester,3.3,Female,22
+ST0897,2025-10-17,Engineering,Second Semester,3.13,Female,28
+ST0898,2023-03-25,Information Technology,Second Semester,3.1,Female,20
+ST0899,2023-01-29,Engineering,Summer,2.97,Female,27
+ST0900,2022-12-07,Education,Second Semester,3.47,Male,29
+ST0901,2022-04-16,Accounting,Summer,3.9,Male,21
+ST0902,2023-11-08,Accounting,Second Semester,3.6,Male,20
+ST0903,2023-03-08,Education,First Semester,3.61,Male,25
+ST0904,2024-05-14,Accounting,First Semester,2.13,Male,23
+ST0905,2021-06-13,Engineering,First Semester,3.45,Female,27
+ST0906,2024-09-05,Engineering,Second Semester,3.42,Male,30
+ST0907,2025-08-07,Information Technology,Summer,2.99,Male,21
+ST0908,2025-10-08,Education,Summer,2.57,Male,30
+ST0909,2024-05-12,Engineering,Summer,3.4,Male,28
+ST0910,2021-03-15,Business,First Semester,3.31,Male,19
+ST0911,2022-07-20,Accounting,Second Semester,3.34,Female,27
+ST0912,2022-02-15,Engineering,First Semester,3.47,Male,19
+ST0913,2024-01-31,Business,Summer,3.66,Female,23
+ST0914,2025-07-29,Business,First Semester,3.21,Male,25
+ST0915,2023-04-08,Engineering,First Semester,2.52,Female,26
+ST0916,2021-08-07,Engineering,First Semester,3.01,Female,19
+ST0917,2025-07-03,Engineering,Second Semester,3.75,Female,29
+ST0918,2023-06-26,Accounting,Summer,2.97,Male,30
+ST0919,2022-11-27,Accounting,Summer,2.92,Male,25
+ST0920,2021-08-27,Business,First Semester,2.77,Male,28
+ST0921,2024-12-07,Information Technology,Second Semester,2.82,Female,26
+ST0922,2024-01-03,Computer Science,Summer,3.66,Male,22
+ST0923,2021-07-10,Accounting,Summer,3.5,Female,19
+ST0924,2024-02-10,Information Technology,Second Semester,2.63,Male,27
+ST0925,2022-07-06,Information Technology,Summer,3.37,Male,25
+ST0926,2025-02-18,Information Technology,First Semester,3.47,Female,21
+ST0927,2022-04-15,Information Technology,First Semester,3.67,Female,20
+ST0928,2025-05-15,Computer Science,First Semester,3.84,Female,27
+ST0929,2021-01-14,Engineering,First Semester,3.7,Female,27
+ST0930,2022-10-08,Accounting,Summer,3.74,Female,20
+ST0931,2025-04-15,Engineering,Second Semester,2.8,Male,18
+ST0932,2023-12-13,Accounting,Second Semester,3.88,Male,26
+ST0933,2022-12-13,Accounting,Summer,3.55,Female,19
+ST0934,2024-12-01,Engineering,Second Semester,2.63,Male,18
+ST0935,2024-10-12,Information Technology,Second Semester,3.16,Female,23
+ST0936,2024-06-08,Business,First Semester,3.1,Male,22
+ST0937,2023-08-24,Engineering,Second Semester,2.73,Female,24
+ST0938,2022-03-08,Accounting,Summer,3.5,Female,24
+ST0939,2022-07-27,Accounting,First Semester,3.14,Male,19
+ST0940,2025-01-16,Business,First Semester,3.11,Female,21
+ST0941,2021-10-26,Education,First Semester,2.95,Male,20
+ST0942,2023-05-14,Accounting,First Semester,3.99,Female,30
+ST0943,2023-09-24,Business,Second Semester,3.12,Male,24
+ST0944,2021-07-22,Education,First Semester,2.12,Female,25
+ST0945,2025-09-15,Education,First Semester,2.9,Female,22
+ST0946,2023-01-10,Business,Summer,3.11,Female,23
+ST0947,2021-02-10,Accounting,First Semester,2.7,Male,27
+ST0948,2024-03-25,Education,Summer,3.08,Female,23
+ST0949,2022-10-28,Education,Summer,2.97,Female,19
+ST0950,2023-02-20,Engineering,Second Semester,2.93,Male,20
+ST0951,2024-08-04,Business,Second Semester,3.26,Female,19
+ST0952,2021-06-12,Information Technology,Second Semester,2.46,Female,28
+ST0953,2022-08-20,Education,Second Semester,3.21,Female,22
+ST0954,2025-12-23,Accounting,Second Semester,3.5,Female,24
+ST0955,2021-12-09,Information Technology,First Semester,2.25,Male,28
+ST0956,2022-05-31,Education,Summer,3.5,Male,20
+ST0957,2023-03-25,Computer Science,First Semester,2.13,Female,26
+ST0958,2021-04-21,Computer Science,Second Semester,3.05,Male,19
+ST0959,2022-06-22,Engineering,First Semester,2.17,Female,22
+ST0960,2022-04-15,Information Technology,Summer,2.57,Male,20
+ST0961,2023-12-15,Information Technology,First Semester,2.07,Female,23
+ST0962,2025-11-05,Accounting,Second Semester,3.95,Female,26
+ST0963,2023-07-01,Information Technology,Summer,3.08,Female,28
+ST0964,2025-03-14,Education,Summer,2.87,Female,23
+ST0965,2023-09-14,Engineering,First Semester,3.61,Female,22
+ST0966,2023-01-20,Accounting,Second Semester,2.31,Male,18
+ST0967,2023-12-08,Information Technology,Second Semester,2.57,Male,29
+ST0968,2023-10-05,Accounting,Second Semester,2.02,Female,30
+ST0969,2022-08-23,Engineering,First Semester,3.59,Female,21
+ST0970,2023-04-24,Engineering,Second Semester,2.79,Male,29
+ST0971,2025-02-18,Education,Second Semester,3.66,Male,22
+ST0972,2021-06-12,Accounting,Summer,2.48,Female,22
+ST0973,2024-08-21,Education,Summer,3.62,Female,21
+ST0974,2025-10-14,Computer Science,First Semester,2.27,Male,28
+ST0975,2023-07-22,Engineering,Second Semester,2.54,Female,21
+ST0976,2022-10-19,Computer Science,First Semester,2.1,Male,20
+ST0977,2021-07-29,Business,Second Semester,2.25,Female,29
+ST0978,2021-01-17,Information Technology,First Semester,2.3,Female,21
+ST0979,2022-12-02,Accounting,Second Semester,3.57,Female,23
+ST0980,2023-08-08,Education,First Semester,2.66,Male,18
+ST0981,2022-06-30,Accounting,First Semester,3.09,Male,21
+ST0982,2025-09-20,Business,Second Semester,3.66,Male,30
+ST0983,2025-01-03,Information Technology,Second Semester,3.54,Female,21
+ST0984,2025-02-19,Computer Science,First Semester,2.92,Male,26
+ST0985,2024-09-25,Information Technology,Second Semester,2.78,Female,23
+ST0986,2021-11-21,Education,Summer,2.08,Male,22
+ST0987,2023-09-13,Education,Second Semester,2.4,Male,28
+ST0988,2022-03-23,Computer Science,First Semester,3.27,Female,18
+ST0989,2021-12-09,Business,Summer,2.24,Male,18
+ST0990,2021-03-28,Engineering,Summer,2.95,Male,23
+ST0991,2025-04-28,Computer Science,First Semester,2.32,Male,28
+ST0992,2024-06-20,Business,Summer,2.12,Female,28
+ST0993,2021-11-12,Education,Summer,3.58,Male,25
+ST0994,2022-04-22,Business,Summer,3.58,Female,30
+ST0995,2023-06-18,Education,First Semester,2.04,Female,23
+ST0996,2025-01-23,Information Technology,Second Semester,3.8,Female,29
+ST0997,2023-06-16,Engineering,Second Semester,3.09,Female,21
+ST0998,2024-03-06,Information Technology,Summer,2.7,Female,22
+ST0999,2025-11-12,Engineering,Summer,2.32,Male,25
+ST1000,2022-08-29,Business,Summer,2.73,Male,30
