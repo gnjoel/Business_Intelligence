@@ -7,12 +7,12 @@ S0004,Business Administration,Male,2024-04-21,52000
 S0005,Computer Science,Male,2026-01-21,46000
 S0006,Mathematics,Female,2026-04-21,37000
 S0007,Computer Science,Male,2025-05-15,41000
-S0008,Physics,Male,2024-03-16,68000
+S0008,Physics,M,2024-03-16,68000
 S0009,Biology,Male,2023-07-09,44000
 S0010,Business Administration,Female,2024-12-05,58000
 S0011,Physics,Male,2025-07-29,54000
 S0012,Business Administration,Female,2023-06-11,55000
-S0013,Physics,Female,2026-03-28,32000
+S0013,Physics,F,2026-03-28,32000
 S0014,Business Administration,Male,2024-04-11,69000
 S0015,Physics,Male,2024-04-21,75000
 S0016,Business Administration,Female,2024-07-23,49000
@@ -21,7 +21,7 @@ S0018,Mathematics,Female,2023-05-27,58000
 S0019,Engineering,Male,2023-12-01,49000
 S0020,Economics,Female,2026-02-14,34000
 S0021,Biology,Male,2024-04-14,72000
-S0022,Computer Science,Female,2025-04-01,37000
+S0022,Computer Science,F,2025-04-01,37000
 S0023,Business Administration,Male,2026-03-07,76000
 S0024,Biology,Male,2025-10-19,45000
 S0025,Information Technology,Male,2024-06-26,28000
@@ -35,37 +35,37 @@ S0032,Computer Science,Male,2026-01-04,68000
 S0033,Physics,Female,2023-08-17,38000
 S0034,Economics,Male,2025-07-18,20000
 S0035,Physics,Male,2025-11-05,78000
-S0036,Business Administration,Female,2025-11-05,58000
+S0036,Business Admin,Female,2025-11-05,58000
 S0037,Mathematics,Male,2025-02-04,68000
 S0038,Engineering,Male,2026-05-11,40000
 S0039,Information Technology,Male,2023-08-18,79000
 S0040,Biology,Female,2024-05-05,23000
 S0041,Mathematics,Male,2023-06-25,66000
-S0042,Information Technology,Male,2025-12-26,69000
+S0042,IT,Male,2025-12-26,69000
 S0043,Engineering,Male,2025-08-31,80000
 S0044,Engineering,Female,2025-12-16,75000
 S0045,Economics,Male,2026-01-09,68000
 S0046,Mathematics,Female,2025-03-28,62000
 S0047,Biology,Female,2025-11-25,48000
-S0048,Business Administration,Male,2024-04-05,24000
+S0048,Business Admin,Male,2024-04-05,24000
 S0049,Biology,Male,2026-04-19,55000
 S0050,Mathematics,Male,2023-01-15,24000
 S0051,Computer Science,Male,2023-05-19,77000
-S0052,Computer Science,Female,2023-05-26,52000
+S0052,Computer Science,F,2023-05-26,52000
 S0053,Mathematics,Female,2025-09-21,33000
 S0054,Engineering,Female,2024-05-12,70000
 S0055,Information Technology,Female,2024-01-25,26000
-S0056,Business Administration,Female,2024-12-26,47000
+S0056,Business Administration,F,2024-12-26,47000
 S0057,Economics,Female,2023-04-21,63000
 S0058,Business Administration,Male,2025-04-04,66000
 S0059,Biology,Male,2024-05-24,32000
 S0060,Mathematics,Female,2023-10-15,47000
 S0061,Engineering,Female,2025-08-05,35000
-S0062,Business Administration,Female,2026-02-01,26000
+S0062,Business Administration,F,2026-02-01,26000
 S0063,Computer Science,Male,2023-07-11,79000
 S0064,Mathematics,Male,2025-04-12,51000
-S0065,Information Technology,Male,2025-04-01,77000
-S0066,Computer Science,Male,2025-02-15,20000
+S0065,I.T,Male,2025-04-01,77000
+S0066,Computer Science,Me,2025-02-15,20000
 S0067,Economics,Female,2025-07-20,38000
 S0068,Economics,Female,2023-11-14,32000
 S0069,Physics,Male,2023-04-30,57000
@@ -73,7 +73,7 @@ S0070,Computer Science,Female,2023-04-28,23000
 S0071,Information Technology,Male,2023-04-27,52000
 S0072,Business Administration,Male,2023-05-21,58000
 S0073,Business Administration,Male,2025-04-06,27000
-S0074,Mathematics,Male,2023-06-17,46000
+S0074,Math,Male,2023-06-17,46000
 S0075,Biology,Female,2024-02-23,62000
 S0076,Biology,Male,2024-06-27,45000
 S0077,Engineering,Female,2025-07-25,40000
@@ -81,17 +81,17 @@ S0078,Business Administration,Male,2025-07-27,59000
 S0079,Business Administration,Male,2026-01-06,33000
 S0080,Physics,Male,2024-12-15,76000
 S0081,Business Administration,Male,2025-01-26,38000
-S0082,Engineering,Female,2026-01-17,65000
+S0082,Engineering,F,2026-01-17,65000
 S0083,Physics,Male,2026-02-09,39000
-S0084,Business Administration,Male,2024-06-25,27000
-S0085,Business Administration,Male,2024-07-11,38000
+S0084,Business Admini,Male,2024-06-25,27000
+S0085,Business Admini,Male,2024-07-11,38000
 S0086,Mathematics,Female,2024-02-21,63000
-S0087,Physics,Female,2024-05-29,77000
+S0087,Physics,F,2024-05-29,77000
 S0088,Computer Science,Male,2025-05-17,73000
-S0089,Physics,Male,2023-01-08,41000
-S0090,Engineering,Female,2023-11-27,67000
-S0091,Information Technology,Female,2026-02-22,20000
-S0092,Business Administration,Male,2023-11-02,54000
+S0089,Physics,M,2023-01-08,41000
+S0090,Engineer,Female,2023-11-27,67000
+S0091,Information Tech.,Female,2026-02-22,20000
+S0092,Business Admin,Male,2023-11-02,54000
 S0093,Computer Science,Female,2026-04-07,55000
 S0094,Engineering,Female,2023-09-19,22000
 S0095,Physics,Female,2023-03-23,77000
@@ -122,11 +122,11 @@ S0119,Engineering,Female,2025-04-11,55000
 S0120,Computer Science,Female,2024-08-10,33000
 S0121,Economics,Female,2025-08-10,48000
 S0122,Information Technology,Male,2025-11-12,50000
-S0123,Engineering,Male,2024-08-04,52000
+S0123,Engineering,M,2024-08-04,52000
 S0124,Biology,Male,2024-04-26,63000
 S0125,Physics,Male,2024-02-12,29000
 S0126,Computer Science,Male,2024-05-16,50000
-S0127,Business Administration,Female,2025-04-28,76000
+S0127,Business Admin,Female,2025-04-28,76000
 S0128,Mathematics,Female,2025-10-09,45000
 S0129,Mathematics,Male,2023-01-12,77000
 S0130,Business Administration,Female,2024-03-24,31000
@@ -157,7 +157,7 @@ S0154,Biology,Female,2025-02-15,37000
 S0155,Economics,Female,2023-06-17,50000
 S0156,Computer Science,Male,2024-12-17,34000
 S0157,Business Administration,Male,2023-03-05,80000
-S0158,Mathematics,Male,2023-02-11,59000
+S0158,Math,Male,2023-02-11,59000
 S0159,Engineering,Male,2023-09-16,50000
 S0160,Business Administration,Male,2025-08-10,64000
 S0161,Physics,Female,2023-12-10,58000
@@ -196,7 +196,7 @@ S0193,Computer Science,Female,2023-09-16,60000
 S0194,Information Technology,Male,2023-01-26,56000
 S0195,Physics,Female,2025-09-07,48000
 S0196,Biology,Male,2023-04-16,36000
-S0197,Information Technology,Male,2023-05-14,45000
+S0197,Information Tech,Male,2023-05-14,45000
 S0198,Information Technology,Male,2026-03-27,60000
 S0199,Computer Science,Male,2023-11-02,71000
 S0200,Physics,Male,2024-05-23,27000
@@ -220,7 +220,7 @@ S0217,Computer Science,Female,2024-10-22,58000
 S0218,Physics,Male,2023-07-07,34000
 S0219,Computer Science,Female,2026-03-26,22000
 S0220,Engineering,Female,2025-11-28,61000
-S0221,Information Technology,Female,2024-01-07,57000
+S0221,Information Technology,F,2024-01-07,57000
 S0222,Economics,Female,2023-07-06,50000
 S0223,Biology,Female,2024-11-13,40000
 S0224,Business Administration,Male,2024-11-06,46000
@@ -239,7 +239,7 @@ S0236,Business Administration,Female,2023-08-29,61000
 S0237,Engineering,Female,2024-08-20,52000
 S0238,Physics,Female,2025-09-15,50000
 S0239,Mathematics,Female,2026-02-02,29000
-S0240,Economics,Male,2026-05-12,52000
+S0240,Economics,M,2026-05-12,52000
 S0241,Engineering,Male,2024-07-19,69000
 S0242,Economics,Female,2025-11-05,37000
 S0243,Computer Science,Female,2024-09-03,73000
@@ -261,15 +261,15 @@ S0258,Business Administration,Female,2023-07-21,68000
 S0259,Business Administration,Female,2023-12-07,64000
 S0260,Physics,Male,2023-04-05,40000
 S0261,Computer Science,Female,2025-01-04,43000
-S0262,Economics,Male,2024-05-15,53000
-S0263,Economics,Male,2023-12-15,31000
+S0262,Economics,M,2024-05-15,53000
+S0263,Economics,M,2023-12-15,31000
 S0264,Business Administration,Female,2024-05-08,51000
 S0265,Engineering,Male,2025-08-02,60000
 S0266,Physics,Female,2024-06-06,62000
 S0267,Computer Science,Female,2024-08-12,63000
 S0268,Engineering,Male,2025-06-23,80000
-S0269,Biology,Female,2025-05-18,64000
-S0270,Physics,Female,2024-09-10,32000
+S0269,Biology,F,2025-05-18,64000
+S0270,Physics,F,2024-09-10,32000
 S0271,Economics,Female,2023-08-07,35000
 S0272,Economics,Female,2026-03-23,38000
 S0273,Physics,Male,2025-03-21,37000
