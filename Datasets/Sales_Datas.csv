@@ -1,0 +1,501 @@
+Date,Region,Province,City,Product,Category,Sales,Quantity,CustomerID,Profit
+2025-01-02,North,Chiang Rai,Mae Sai,Tablet,Electronics,15283,9,CUST0024,1916.96
+2025-01-02,South,Surat Thani,Koh Samui,Printer,Electronics,52839,9,CUST0077,6067.01
+2025-01-02,Northeast,Nakhon Ratchasima,Pak Chong,Printer,Electronics,8265,9,CUST0094,834.5
+2025-01-04,North,Chiang Rai,Mae Sai,Smartphone,Electronics,29691,8,CUST0086,4761.65
+2025-01-04,Central,Saraburi,Muak Lek,Lamp,Furniture,1290,2,CUST0008,198.79
+2025-01-04,Central,Saraburi,Muak Lek,Smartphone,Electronics,117312,6,CUST0087,15171.82
+2025-01-05,East,Rayong,Mueang Rayong,Laptop,Electronics,67616,2,CUST0068,10863.03
+2025-01-07,East,Chonburi,Pattaya,Paper,Office Supplies,1484,7,CUST0118,168.52
+2025-01-07,East,Chonburi,Pattaya,Printer,Electronics,6394,5,CUST0007,568.4
+2025-01-08,South,Surat Thani,Mueang Surat Thani,Binder,Office Supplies,240,2,CUST0068,26.7
+2025-01-12,South,Phuket,Phuket City,Smartphone,Electronics,18205,8,CUST0089,2546.75
+2025-01-12,Northeast,Khon Kaen,Mueang Khon Kaen,Printer,Electronics,6106,6,CUST0041,434.6
+2025-01-12,North,Chiang Rai,Mae Sai,Paper,Office Supplies,1320,10,CUST0128,186.2
+2025-01-14,South,Surat Thani,Koh Samui,Desk,Furniture,32655,5,CUST0090,7830.67
+2025-01-15,North,Chiang Mai,Mueang Chiang Mai,Tablet,Electronics,15798,6,CUST0072,2162.76
+2025-01-15,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Binder,Office Supplies,696,8,CUST0067,65.56
+2025-01-15,North,Chiang Rai,Mae Sai,Stapler,Office Supplies,1095,3,CUST0033,160.68
+2025-01-19,East,Rayong,Mueang Rayong,Bookshelf,Furniture,28240,5,CUST0104,4399.68
+2025-01-19,Central,Saraburi,Muak Lek,Smartphone,Electronics,29279,7,CUST0022,4811.85
+2025-01-20,South,Phuket,Patong,Pen,Office Supplies,142,2,CUST0024,39.71
+2025-01-20,North,Chiang Mai,Mueang Chiang Mai,Smartphone,Electronics,29067,7,CUST0089,4470.05
+2025-01-21,East,Chonburi,Si Racha,Desk,Furniture,13794,2,CUST0105,3054.2
+2025-01-21,Central,Saraburi,Muak Lek,Laptop,Electronics,25624,5,CUST0030,4600.32
+2025-01-21,South,Phuket,Patong,Laptop,Electronics,28262,7,CUST0037,5066.16
+2025-01-22,Northeast,Nakhon Ratchasima,Pak Chong,Printer,Electronics,7673,8,CUST0036,403.3
+2025-01-22,Central,Saraburi,Kaeng Khoi,Printer,Electronics,5236,7,CUST0074,429.6
+2025-01-23,Northeast,Khon Kaen,Mueang Khon Kaen,Printer,Electronics,10828,3,CUST0047,883.8
+2025-01-23,Central,Bangkok,Bangkok,Tablet,Electronics,11789,10,CUST0012,948.68
+2025-01-23,East,Chonburi,Pattaya,Desk,Furniture,45198,6,CUST0085,5834.91
+2025-01-24,South,Phuket,Patong,Stapler,Office Supplies,348,2,CUST0138,42.97
+2025-01-24,East,Chonburi,Pattaya,Tablet,Electronics,8547,2,CUST0084,976.64
+2025-01-25,Northeast,Nakhon Ratchasima,Pak Chong,Laptop,Electronics,43674,4,CUST0008,8149.32
+2025-01-25,North,Chiang Rai,Mueang Chiang Rai,Desk,Furniture,62195,7,CUST0098,7977.04
+2025-01-25,East,Rayong,Ban Chang,Laptop,Electronics,36926,7,CUST0002,6629.68
+2025-01-26,South,Surat Thani,Mueang Surat Thani,Printer,Electronics,5922,2,CUST0077,645.2
+2025-01-26,Northeast,Nakhon Ratchasima,Pak Chong,Tablet,Electronics,9308,6,CUST0023,1444.96
+2025-01-26,North,Chiang Rai,Mae Sai,Laptop,Electronics,27833,1,CUST0022,4963.94
+2025-01-27,Northeast,Khon Kaen,Chum Phae,Tablet,Electronics,58182,6,CUST0055,7499.42
+2025-01-29,Central,Saraburi,Kaeng Khoi,Smartphone,Electronics,17727,1,CUST0028,3095.05
+2025-01-29,Central,Saraburi,Kaeng Khoi,Tablet,Electronics,14290,9,CUST0043,1907.8
+2025-01-30,Northeast,Khon Kaen,Chum Phae,Smartphone,Electronics,25460,10,CUST0022,4162.0
+2025-02-01,North,Chiang Rai,Mae Sai,Binder,Office Supplies,336,2,CUST0024,37.96
+2025-02-01,East,Rayong,Mueang Rayong,Bookshelf,Furniture,14266,2,CUST0011,2600.78
+2025-02-02,Central,Saraburi,Kaeng Khoi,Laptop,Electronics,29425,2,CUST0034,5200.5
+2025-02-03,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Printer,Electronics,7050,10,CUST0041,1036.0
+2025-02-03,East,Chonburi,Si Racha,Smartphone,Electronics,21854,7,CUST0069,3200.1
+2025-02-03,Central,Saraburi,Muak Lek,Laptop,Electronics,26301,6,CUST0077,4798.18
+2025-02-03,South,Surat Thani,Mueang Surat Thani,Pen,Office Supplies,476,7,CUST0117,109.28
+2025-02-04,Northeast,Nakhon Ratchasima,Pak Chong,Tablet,Electronics,13566,3,CUST0072,1770.92
+2025-02-04,South,Phuket,Phuket City,Chair,Furniture,11879,7,CUST0096,2249.3
+2025-02-05,Northeast,Khon Kaen,Mueang Khon Kaen,Smartphone,Electronics,16492,5,CUST0075,2896.8
+2025-02-05,Northeast,Khon Kaen,Chum Phae,Printer,Electronics,6351,3,CUST0004,709.1
+2025-02-05,North,Chiang Mai,Mueang Chiang Mai,Desk,Furniture,68024,8,CUST0136,9623.12
+2025-02-06,North,Chiang Mai,Doi Saket,Laptop,Electronics,44515,7,CUST0031,7685.7
+2025-02-08,South,Phuket,Phuket City,Laptop,Electronics,43932,10,CUST0063,7575.76
+2025-02-09,East,Chonburi,Si Racha,Laptop,Electronics,31079,8,CUST0027,5443.22
+2025-02-10,Central,Saraburi,Kaeng Khoi,Smartphone,Electronics,17890,6,CUST0039,2794.5
+2025-02-10,Northeast,Nakhon Ratchasima,Pak Chong,Lamp,Furniture,4820,5,CUST0094,692.0
+2025-02-11,South,Surat Thani,Mueang Surat Thani,Desk,Furniture,36757,7,CUST0017,7786.4
+2025-02-13,Northeast,Nakhon Ratchasima,Pak Chong,Smartphone,Electronics,192768,8,CUST0122,31901.15
+2025-02-16,North,Chiang Mai,Doi Saket,Lamp,Furniture,6748,7,CUST0095,769.88
+2025-02-17,Northeast,Nakhon Ratchasima,Pak Chong,Tablet,Electronics,45048,4,CUST0012,4836.7
+2025-02-17,East,Chonburi,Pattaya,Paper,Office Supplies,205,1,CUST0068,26.06
+2025-02-19,Northeast,Khon Kaen,Chum Phae,Printer,Electronics,6454,4,CUST0007,753.4
+2025-02-21,Northeast,Khon Kaen,Chum Phae,Laptop,Electronics,27171,10,CUST0020,5042.78
+2025-02-22,South,Phuket,Phuket City,Paper,Office Supplies,1248,6,CUST0012,137.75
+2025-02-23,Central,Bangkok,Bangkok,Laptop,Electronics,29417,10,CUST0056,4917.06
+2025-02-24,East,Chonburi,Pattaya,Tablet,Electronics,8690,7,CUST0066,1435.8
+2025-02-24,East,Chonburi,Pattaya,Desk,Furniture,70245,9,CUST0064,8887.99
+2025-02-25,Northeast,Nakhon Ratchasima,Pak Chong,Paper,Office Supplies,2030,10,CUST0057,287.3
+2025-02-26,East,Chonburi,Pattaya,Tablet,Electronics,10103,3,CUST0082,1343.36
+2025-02-27,Central,Bangkok,Bangkok,Laptop,Electronics,37628,1,CUST0065,7163.04
+2025-02-28,North,Chiang Rai,Mae Sai,Printer,Electronics,9463,10,CUST0088,1168.3
+2025-02-28,South,Phuket,Phuket City,Stapler,Office Supplies,594,2,CUST0014,96.79
+2025-02-28,South,Phuket,Patong,Laptop,Electronics,35697,8,CUST0011,6693.46
+2025-03-02,East,Chonburi,Si Racha,Printer,Electronics,8829,9,CUST0093,1351.9
+2025-03-04,North,Chiang Rai,Mae Sai,Smartphone,Electronics,19512,7,CUST0040,2706.8
+2025-03-04,East,Rayong,Mueang Rayong,Lamp,Furniture,9648,9,CUST0114,1346.33
+2025-03-05,East,Rayong,Mueang Rayong,Pen,Office Supplies,540,10,CUST0096,147.62
+2025-03-05,Northeast,Khon Kaen,Mueang Khon Kaen,Laptop,Electronics,31161,7,CUST0086,5949.98
+2025-03-06,South,Phuket,Phuket City,Printer,Electronics,5345,5,CUST0025,189.5
+2025-03-07,South,Phuket,Phuket City,Tablet,Electronics,17788,1,CUST0079,1670.56
+2025-03-08,North,Chiang Mai,Mueang Chiang Mai,Bookshelf,Furniture,12730,2,CUST0109,2134.57
+2025-03-09,East,Chonburi,Si Racha,Desk,Furniture,38004,6,CUST0140,5339.83
+2025-03-10,East,Rayong,Mueang Rayong,Laptop,Electronics,41158,6,CUST0042,7710.44
+2025-03-10,Central,Saraburi,Muak Lek,Smartphone,Electronics,19970,8,CUST0030,2640.5
+2025-03-10,South,Surat Thani,Koh Samui,Chair,Furniture,16362,9,CUST0054,2170.94
+2025-03-11,North,Chiang Rai,Mae Sai,Pen,Office Supplies,504,9,CUST0040,120.0
+2025-03-12,East,Rayong,Ban Chang,Smartphone,Electronics,28761,4,CUST0046,4495.15
+2025-03-12,Northeast,Khon Kaen,Mueang Khon Kaen,Laptop,Electronics,44048,5,CUST0009,8420.64
+2025-03-14,Northeast,Khon Kaen,Chum Phae,Smartphone,Electronics,29690,6,CUST0072,4665.5
+2025-03-15,South,Surat Thani,Koh Samui,Desk,Furniture,75735,9,CUST0150,11675.04
+2025-03-16,Central,Bangkok,Bangkok,Printer,Electronics,8956,9,CUST0059,633.6
+2025-03-16,East,Chonburi,Pattaya,Laptop,Electronics,44188,5,CUST0031,7802.84
+2025-03-17,South,Phuket,Phuket City,Tablet,Electronics,14138,5,CUST0047,1926.56
+2025-03-17,North,Chiang Rai,Mueang Chiang Rai,Smartphone,Electronics,26598,9,CUST0051,4291.7
+2025-03-18,South,Surat Thani,Koh Samui,Laptop,Electronics,29418,6,CUST0032,4913.24
+2025-03-19,South,Surat Thani,Mueang Surat Thani,Tablet,Electronics,24132,2,CUST0107,2556.12
+2025-03-19,Northeast,Khon Kaen,Mueang Khon Kaen,Tablet,Electronics,15594,8,CUST0078,2054.28
+2025-03-19,East,Rayong,Ban Chang,Printer,Electronics,6482,6,CUST0028,527.2
+2025-03-21,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Chair,Furniture,19386,6,CUST0030,3232.65
+2025-03-22,East,Rayong,Ban Chang,Stapler,Office Supplies,2700,10,CUST0060,348.64
+2025-03-23,North,Chiang Mai,Doi Saket,Printer,Electronics,5164,2,CUST0075,341.4
+2025-03-24,South,Phuket,Patong,Printer,Electronics,8925,3,CUST0096,1039.5
+2025-03-24,Central,Bangkok,Bangkok,Stapler,Office Supplies,1595,5,CUST0141,310.26
+2025-03-24,East,Rayong,Mueang Rayong,Smartphone,Electronics,136422,9,CUST0039,17286.36
+2025-03-25,East,Chonburi,Pattaya,Printer,Electronics,8007,3,CUST0065,309.7
+2025-03-25,East,Chonburi,Si Racha,Binder,Office Supplies,745,5,CUST0019,87.51
+2025-03-25,Northeast,Khon Kaen,Chum Phae,Chair,Furniture,13395,5,CUST0097,2428.27
+2025-03-26,North,Chiang Rai,Mae Sai,Lamp,Furniture,7240,5,CUST0117,1146.87
+2025-03-26,Northeast,Nakhon Ratchasima,Pak Chong,Laptop,Electronics,44023,5,CUST0038,8331.14
+2025-03-26,South,Phuket,Phuket City,Laptop,Electronics,29783,4,CUST0097,5075.94
+2025-03-27,East,Chonburi,Pattaya,Stapler,Office Supplies,1484,4,CUST0016,207.91
+2025-03-28,South,Phuket,Patong,Printer,Electronics,9436,2,CUST0013,1214.6
+2025-03-29,Central,Saraburi,Muak Lek,Printer,Electronics,10295,6,CUST0005,840.5
+2025-03-29,Central,Saraburi,Muak Lek,Smartphone,Electronics,17939,6,CUST0011,2812.85
+2025-03-30,Central,Saraburi,Muak Lek,Printer,Electronics,6963,2,CUST0047,915.3
+2025-03-30,North,Chiang Rai,Mueang Chiang Rai,Printer,Electronics,10757,6,CUST0063,1191.7
+2025-03-30,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Smartphone,Electronics,22240,1,CUST0015,3527.0
+2025-03-31,Central,Bangkok,Bangkok,Laptop,Electronics,31063,1,CUST0019,5987.34
+2025-03-31,Northeast,Nakhon Ratchasima,Pak Chong,Laptop,Electronics,36439,5,CUST0011,6771.02
+2025-04-01,South,Surat Thani,Koh Samui,Smartphone,Electronics,16212,7,CUST0089,2414.8
+2025-04-02,Northeast,Khon Kaen,Chum Phae,Desk,Furniture,21860,5,CUST0142,5391.95
+2025-04-02,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Tablet,Electronics,8181,8,CUST0031,951.72
+2025-04-04,East,Rayong,Ban Chang,Tablet,Electronics,12789,7,CUST0070,1119.68
+2025-04-06,Central,Saraburi,Kaeng Khoi,Smartphone,Electronics,26741,8,CUST0044,3555.15
+2025-04-06,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Printer,Electronics,5781,7,CUST0061,639.1
+2025-04-07,Central,Saraburi,Muak Lek,Smartphone,Electronics,27872,2,CUST0071,3903.8
+2025-04-08,North,Chiang Rai,Mueang Chiang Rai,Lamp,Furniture,5598,6,CUST0014,677.98
+2025-04-08,South,Surat Thani,Koh Samui,Smartphone,Electronics,24292,10,CUST0087,3902.8
+2025-04-09,Central,Bangkok,Bangkok,Desk,Furniture,23088,4,CUST0071,4987.44
+2025-04-09,Northeast,Khon Kaen,Mueang Khon Kaen,Smartphone,Electronics,65736,3,CUST0119,8612.03
+2025-04-10,North,Chiang Rai,Mae Sai,Stapler,Office Supplies,748,4,CUST0002,123.87
+2025-04-12,Central,Saraburi,Muak Lek,Printer,Electronics,12902,2,CUST0127,1523.1
+2025-04-12,East,Chonburi,Si Racha,Printer,Electronics,7384,2,CUST0059,1224.4
+2025-04-13,Central,Saraburi,Kaeng Khoi,Smartphone,Electronics,14877,3,CUST0011,1928.55
+2025-04-13,East,Chonburi,Pattaya,Tablet,Electronics,8300,3,CUST0068,1416.0
+2025-04-14,South,Phuket,Phuket City,Smartphone,Electronics,26993,2,CUST0027,3579.95
+2025-04-14,North,Chiang Rai,Mae Sai,Smartphone,Electronics,28891,6,CUST0021,4833.65
+2025-04-14,East,Rayong,Ban Chang,Smartphone,Electronics,14088,4,CUST0100,1743.2
+2025-04-15,South,Phuket,Phuket City,Tablet,Electronics,15564,5,CUST0095,1552.68
+2025-04-15,Northeast,Khon Kaen,Chum Phae,Smartphone,Electronics,14112,3,CUST0071,2124.8
+2025-04-16,North,Chiang Mai,Doi Saket,Tablet,Electronics,14711,6,CUST0050,1781.32
+2025-04-16,North,Chiang Rai,Mueang Chiang Rai,Smartphone,Electronics,27550,5,CUST0043,3752.5
+2025-04-19,East,Rayong,Mueang Rayong,Pen,Office Supplies,329,7,CUST0108,86.46
+2025-04-19,Central,Saraburi,Kaeng Khoi,Tablet,Electronics,64716,4,CUST0118,7751.79
+2025-04-20,North,Chiang Rai,Mae Sai,Smartphone,Electronics,23851,2,CUST0068,3249.65
+2025-04-20,North,Chiang Mai,Mueang Chiang Mai,Lamp,Furniture,5212,4,CUST0105,663.47
+2025-04-22,Northeast,Khon Kaen,Chum Phae,Tablet,Electronics,17933,10,CUST0085,2113.96
+2025-04-22,East,Chonburi,Pattaya,Laptop,Electronics,40383,2,CUST0062,6943.94
+2025-04-23,Central,Bangkok,Bangkok,Smartphone,Electronics,19777,4,CUST0074,3360.55
+2025-04-23,Central,Bangkok,Bangkok,Desk,Furniture,6584,1,CUST0017,1133.44
+2025-04-23,South,Phuket,Phuket City,Smartphone,Electronics,29820,4,CUST0033,4030.0
+2025-04-23,North,Chiang Rai,Mae Sai,Laptop,Electronics,38445,9,CUST0091,7230.1
+2025-04-24,Northeast,Khon Kaen,Mueang Khon Kaen,Pen,Office Supplies,410,5,CUST0059,110.41
+2025-04-25,East,Rayong,Ban Chang,Printer,Electronics,53823,7,CUST0018,4905.65
+2025-04-25,South,Phuket,Phuket City,Laptop,Electronics,29051,1,CUST0006,4647.23
+2025-04-28,South,Phuket,Phuket City,Bookshelf,Furniture,14422,2,CUST0125,2334.93
+2025-04-28,East,Chonburi,Pattaya,Tablet,Electronics,15623,2,CUST0031,1550.76
+2025-04-29,East,Chonburi,Si Racha,Laptop,Electronics,31522,3,CUST0058,5213.96
+2025-04-30,East,Chonburi,Pattaya,Bookshelf,Furniture,48984,8,CUST0039,8293.18
+2025-04-30,South,Surat Thani,Koh Samui,Tablet,Electronics,11903,7,CUST0099,1323.36
+2025-05-01,North,Chiang Mai,Doi Saket,Laptop,Electronics,29648,5,CUST0069,5088.64
+2025-05-01,North,Chiang Mai,Mueang Chiang Mai,Smartphone,Electronics,24461,2,CUST0078,4017.15
+2025-05-03,East,Chonburi,Pattaya,Printer,Electronics,7067,8,CUST0038,350.7
+2025-05-03,South,Surat Thani,Mueang Surat Thani,Laptop,Electronics,36618,4,CUST0027,6867.24
+2025-05-03,South,Surat Thani,Koh Samui,Binder,Office Supplies,590,5,CUST0019,54.66
+2025-05-04,South,Surat Thani,Koh Samui,Printer,Electronics,10148,1,CUST0058,979.8
+2025-05-05,East,Chonburi,Pattaya,Smartphone,Electronics,146592,9,CUST0080,21072.01
+2025-05-06,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Laptop,Electronics,254320,8,CUST0148,49416.12
+2025-05-07,East,Rayong,Mueang Rayong,Binder,Office Supplies,642,6,CUST0100,74.93
+2025-05-08,South,Phuket,Phuket City,Paper,Office Supplies,123,1,CUST0061,18.07
+2025-05-09,North,Chiang Mai,Doi Saket,Printer,Electronics,9016,5,CUST0078,735.6
+2025-05-10,South,Phuket,Phuket City,Paper,Office Supplies,1197,9,CUST0090,179.54
+2025-05-10,South,Phuket,Phuket City,Smartphone,Electronics,28328,8,CUST0048,4575.2
+2025-05-11,Central,Bangkok,Bangkok,Laptop,Electronics,36337,1,CUST0066,6555.66
+2025-05-11,Northeast,Khon Kaen,Chum Phae,Smartphone,Electronics,24331,4,CUST0049,3422.65
+2025-05-11,North,Chiang Mai,Doi Saket,Tablet,Electronics,13968,2,CUST0074,1846.16
+2025-05-13,Northeast,Nakhon Ratchasima,Pak Chong,Tablet,Electronics,143451,9,CUST0071,18840.48
+2025-05-14,Central,Saraburi,Muak Lek,Tablet,Electronics,9776,1,CUST0089,1269.2
+2025-05-15,East,Rayong,Mueang Rayong,Laptop,Electronics,31468,1,CUST0071,5423.24
+2025-05-16,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Smartphone,Electronics,13718,3,CUST0055,2026.7
+2025-05-16,South,Phuket,Patong,Tablet,Electronics,17671,10,CUST0076,2254.52
+2025-05-17,South,Surat Thani,Mueang Surat Thani,Chair,Furniture,9369,3,CUST0146,1282.74
+2025-05-18,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Printer,Electronics,10913,5,CUST0063,722.3
+2025-05-18,East,Rayong,Ban Chang,Printer,Electronics,5861,10,CUST0038,661.1
+2025-05-19,East,Chonburi,Si Racha,Printer,Electronics,8259,5,CUST0067,706.9
+2025-05-20,Northeast,Khon Kaen,Mueang Khon Kaen,Laptop,Electronics,192258,6,CUST0125,29904.67
+2025-05-21,North,Chiang Rai,Mueang Chiang Rai,Laptop,Electronics,26467,1,CUST0037,4265.06
+2025-05-21,Central,Saraburi,Kaeng Khoi,Bookshelf,Furniture,32463,9,CUST0116,5373.29
+2025-05-23,North,Chiang Mai,Mueang Chiang Mai,Smartphone,Electronics,23829,1,CUST0080,3178.35
+2025-05-23,East,Chonburi,Si Racha,Smartphone,Electronics,183825,9,CUST0030,32418.32
+2025-05-23,Northeast,Khon Kaen,Mueang Khon Kaen,Tablet,Electronics,13261,1,CUST0015,1390.32
+2025-05-23,East,Rayong,Mueang Rayong,Lamp,Furniture,11240,10,CUST0087,1650.24
+2025-05-23,Central,Saraburi,Kaeng Khoi,Lamp,Furniture,13473,9,CUST0143,2111.8
+2025-05-23,East,Rayong,Mueang Rayong,Laptop,Electronics,31706,8,CUST0042,5491.08
+2025-05-24,East,Chonburi,Si Racha,Smartphone,Electronics,21799,8,CUST0027,2976.85
+2025-05-24,North,Chiang Mai,Doi Saket,Laptop,Electronics,27295,10,CUST0045,4572.1
+2025-05-25,North,Chiang Rai,Mae Sai,Laptop,Electronics,25390,4,CUST0079,4311.2
+2025-05-26,Central,Saraburi,Kaeng Khoi,Smartphone,Electronics,12072,7,CUST0060,1646.8
+2025-05-27,Northeast,Nakhon Ratchasima,Pak Chong,Tablet,Electronics,44460,4,CUST0036,5826.24
+2025-05-27,East,Chonburi,Pattaya,Smartphone,Electronics,54333,3,CUST0015,7487.22
+2025-05-27,Northeast,Khon Kaen,Mueang Khon Kaen,Pen,Office Supplies,464,8,CUST0055,100.37
+2025-05-28,East,Rayong,Mueang Rayong,Smartphone,Electronics,30944,2,CUST0062,5520.06
+2025-05-28,Central,Bangkok,Bangkok,Laptop,Electronics,39976,9,CUST0027,7425.68
+2025-05-28,East,Rayong,Mueang Rayong,Lamp,Furniture,6080,5,CUST0070,731.13
+2025-05-28,Northeast,Khon Kaen,Chum Phae,Smartphone,Electronics,52524,2,CUST0068,7038.5
+2025-05-30,South,Surat Thani,Mueang Surat Thani,Smartphone,Electronics,58596,2,CUST0073,7074.64
+2025-05-31,East,Chonburi,Si Racha,Stapler,Office Supplies,636,3,CUST0145,97.38
+2025-06-01,Central,Bangkok,Bangkok,Lamp,Furniture,1288,2,CUST0058,200.17
+2025-06-02,North,Chiang Rai,Mae Sai,Binder,Office Supplies,704,8,CUST0125,64.01
+2025-06-02,South,Surat Thani,Mueang Surat Thani,Smartphone,Electronics,18751,8,CUST0029,3172.65
+2025-06-02,Central,Bangkok,Bangkok,Tablet,Electronics,12963,6,CUST0058,1926.56
+2025-06-03,Central,Saraburi,Muak Lek,Laptop,Electronics,29213,4,CUST0094,5019.34
+2025-06-04,Northeast,Khon Kaen,Mueang Khon Kaen,Bookshelf,Furniture,28435,5,CUST0128,4435.84
+2025-06-04,East,Rayong,Mueang Rayong,Laptop,Electronics,32847,1,CUST0110,6318.61
+2025-06-05,Central,Saraburi,Kaeng Khoi,Smartphone,Electronics,20110,10,CUST0038,3449.5
+2025-06-06,South,Phuket,Phuket City,Printer,Electronics,6863,5,CUST0010,425.3
+2025-06-06,Central,Saraburi,Kaeng Khoi,Stapler,Office Supplies,2565,9,CUST0141,344.67
+2025-06-06,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Smartphone,Electronics,12055,9,CUST0067,1656.25
+2025-06-06,Central,Saraburi,Kaeng Khoi,Laptop,Electronics,371250,10,CUST0054,57529.52
+2025-06-07,Northeast,Nakhon Ratchasima,Pak Chong,Desk,Furniture,46450,10,CUST0125,6091.22
+2025-06-08,North,Chiang Mai,Mueang Chiang Mai,Pen,Office Supplies,216,3,CUST0135,55.17
+2025-06-09,Northeast,Nakhon Ratchasima,Pak Chong,Laptop,Electronics,39993,3,CUST0042,7225.74
+2025-06-09,Central,Bangkok,Bangkok,Laptop,Electronics,27549,1,CUST0013,4349.17
+2025-06-10,North,Chiang Mai,Doi Saket,Printer,Electronics,5295,3,CUST0028,84.5
+2025-06-10,East,Chonburi,Pattaya,Laptop,Electronics,278159,7,CUST0066,49743.01
+2025-06-10,Central,Saraburi,Kaeng Khoi,Stapler,Office Supplies,1568,7,CUST0006,174.86
+2025-06-10,East,Chonburi,Pattaya,Pen,Office Supplies,234,6,CUST0122,59.21
+2025-06-12,East,Chonburi,Si Racha,Laptop,Electronics,39359,2,CUST0021,7278.62
+2025-06-13,North,Chiang Rai,Mae Sai,Printer,Electronics,8465,7,CUST0053,761.5
+2025-06-14,Central,Saraburi,Kaeng Khoi,Tablet,Electronics,15246,9,CUST0014,2073.52
+2025-06-15,South,Surat Thani,Koh Samui,Chair,Furniture,13876,4,CUST0148,2510.39
+2025-06-15,Central,Saraburi,Kaeng Khoi,Tablet,Electronics,11338,4,CUST0043,1013.56
+2025-06-16,Northeast,Nakhon Ratchasima,Pak Chong,Tablet,Electronics,11805,4,CUST0082,1208.6
+2025-06-16,Central,Saraburi,Muak Lek,Smartphone,Electronics,98658,6,CUST0028,14424.07
+2025-06-17,North,Chiang Rai,Mae Sai,Tablet,Electronics,90765,9,CUST0098,9947.12
+2025-06-18,South,Surat Thani,Mueang Surat Thani,Laptop,Electronics,195320,5,CUST0034,38908.02
+2025-06-18,North,Chiang Mai,Mueang Chiang Mai,Smartphone,Electronics,17880,8,CUST0091,2464.0
+2025-06-19,East,Chonburi,Si Racha,Smartphone,Electronics,100115,5,CUST0031,13523.96
+2025-06-21,East,Chonburi,Si Racha,Printer,Electronics,10444,10,CUST0003,1143.4
+2025-06-21,East,Rayong,Ban Chang,Tablet,Electronics,11405,2,CUST0077,1702.6
+2025-06-21,Central,Saraburi,Muak Lek,Tablet,Electronics,15589,9,CUST0054,1730.68
+2025-06-23,Northeast,Nakhon Ratchasima,Pak Chong,Binder,Office Supplies,250,2,CUST0136,26.33
+2025-06-23,North,Chiang Rai,Mae Sai,Laptop,Electronics,233784,6,CUST0137,42950.3
+2025-06-24,North,Chiang Mai,Doi Saket,Paper,Office Supplies,980,5,CUST0149,131.07
+2025-06-24,South,Surat Thani,Koh Samui,Tablet,Electronics,12170,9,CUST0094,1435.4
+2025-06-24,South,Surat Thani,Koh Samui,Tablet,Electronics,73494,9,CUST0049,9247.85
+2025-06-25,East,Rayong,Mueang Rayong,Smartphone,Electronics,22705,5,CUST0041,3436.75
+2025-06-25,Northeast,Khon Kaen,Mueang Khon Kaen,Tablet,Electronics,144036,9,CUST0014,16212.13
+2025-07-01,Central,Saraburi,Muak Lek,Tablet,Electronics,13092,7,CUST0017,1276.04
+2025-07-02,South,Phuket,Phuket City,Tablet,Electronics,17404,2,CUST0041,2340.48
+2025-07-02,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Laptop,Electronics,40065,8,CUST0069,7346.7
+2025-07-03,Central,Bangkok,Bangkok,Tablet,Electronics,15537,3,CUST0068,1746.44
+2025-07-03,East,Chonburi,Pattaya,Laptop,Electronics,37778,3,CUST0002,7148.04
+2025-07-04,South,Surat Thani,Mueang Surat Thani,Smartphone,Electronics,28792,7,CUST0094,3911.8
+2025-07-05,Northeast,Khon Kaen,Mueang Khon Kaen,Printer,Electronics,5684,1,CUST0024,287.4
+2025-07-05,Central,Bangkok,Bangkok,Printer,Electronics,8449,5,CUST0014,449.9
+2025-07-06,South,Surat Thani,Mueang Surat Thani,Bookshelf,Furniture,38418,6,CUST0034,6100.09
+2025-07-06,North,Chiang Rai,Mueang Chiang Rai,Laptop,Electronics,37784,8,CUST0043,6640.12
+2025-07-07,East,Chonburi,Si Racha,Printer,Electronics,9116,7,CUST0037,954.6
+2025-07-09,East,Chonburi,Si Racha,Printer,Electronics,9931,10,CUST0060,1141.1
+2025-07-09,Central,Bangkok,Bangkok,Laptop,Electronics,43090,1,CUST0066,7472.2
+2025-07-10,South,Surat Thani,Koh Samui,Tablet,Electronics,16249,4,CUST0013,2063.88
+2025-07-12,Northeast,Khon Kaen,Mueang Khon Kaen,Laptop,Electronics,25548,8,CUST0092,4292.64
+2025-07-13,North,Chiang Mai,Doi Saket,Smartphone,Electronics,13150,9,CUST0041,2011.5
+2025-07-13,Central,Bangkok,Bangkok,Tablet,Electronics,10669,8,CUST0045,1753.28
+2025-07-13,South,Phuket,Patong,Tablet,Electronics,14567,6,CUST0063,1705.04
+2025-07-14,Central,Bangkok,Bangkok,Smartphone,Electronics,140292,9,CUST0061,22032.52
+2025-07-14,Central,Saraburi,Muak Lek,Printer,Electronics,10537,7,CUST0016,1450.7
+2025-07-15,North,Chiang Mai,Doi Saket,Smartphone,Electronics,17645,5,CUST0071,2253.75
+2025-07-17,North,Chiang Rai,Mueang Chiang Rai,Smartphone,Electronics,14227,3,CUST0061,1686.05
+2025-07-19,North,Chiang Rai,Mueang Chiang Rai,Laptop,Electronics,25902,6,CUST0006,4960.36
+2025-07-19,Central,Saraburi,Kaeng Khoi,Laptop,Electronics,312320,10,CUST0091,54296.52
+2025-07-20,Northeast,Nakhon Ratchasima,Pak Chong,Tablet,Electronics,13995,8,CUST0020,2003.4
+2025-07-21,South,Surat Thani,Koh Samui,Tablet,Electronics,9940,1,CUST0097,1478.8
+2025-07-23,Northeast,Khon Kaen,Mueang Khon Kaen,Desk,Furniture,12940,2,CUST0031,2983.16
+2025-07-23,Central,Bangkok,Bangkok,Tablet,Electronics,10510,1,CUST0033,1030.2
+2025-07-23,South,Surat Thani,Koh Samui,Smartphone,Electronics,16113,9,CUST0063,2457.95
+2025-07-26,South,Surat Thani,Koh Samui,Printer,Electronics,6004,3,CUST0050,1085.4
+2025-07-26,North,Chiang Rai,Mueang Chiang Rai,Printer,Electronics,98700,10,CUST0021,8052.9
+2025-07-26,Central,Saraburi,Muak Lek,Laptop,Electronics,38640,7,CUST0009,7150.2
+2025-07-27,Central,Saraburi,Muak Lek,Printer,Electronics,5873,3,CUST0049,988.3
+2025-07-29,Central,Bangkok,Bangkok,Laptop,Electronics,156474,6,CUST0143,26050.5
+2025-07-29,South,Surat Thani,Koh Samui,Laptop,Electronics,31396,8,CUST0079,6133.28
+2025-07-30,Northeast,Nakhon Ratchasima,Pak Chong,Binder,Office Supplies,216,2,CUST0121,24.82
+2025-07-30,Northeast,Khon Kaen,Mueang Khon Kaen,Printer,Electronics,10927,1,CUST0064,1205.7
+2025-08-01,East,Chonburi,Pattaya,Stapler,Office Supplies,1155,7,CUST0108,139.39
+2025-08-01,Central,Saraburi,Kaeng Khoi,Laptop,Electronics,37933,9,CUST0098,6851.94
+2025-08-01,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Binder,Office Supplies,1040,8,CUST0049,89.22
+2025-08-01,North,Chiang Rai,Mueang Chiang Rai,Stapler,Office Supplies,790,5,CUST0056,133.53
+2025-08-02,North,Chiang Mai,Doi Saket,Printer,Electronics,8722,1,CUST0088,936.2
+2025-08-03,Central,Saraburi,Kaeng Khoi,Tablet,Electronics,56730,5,CUST0081,7572.68
+2025-08-04,North,Chiang Mai,Doi Saket,Tablet,Electronics,15293,9,CUST0097,1832.16
+2025-08-04,Central,Bangkok,Bangkok,Tablet,Electronics,12735,9,CUST0066,1630.2
+2025-08-08,North,Chiang Mai,Doi Saket,Tablet,Electronics,13125,10,CUST0024,1352.0
+2025-08-08,East,Rayong,Ban Chang,Tablet,Electronics,9508,6,CUST0025,1349.96
+2025-08-08,Central,Saraburi,Kaeng Khoi,Pen,Office Supplies,152,4,CUST0024,34.42
+2025-08-09,Central,Saraburi,Muak Lek,Lamp,Furniture,10980,9,CUST0144,1131.06
+2025-08-11,North,Chiang Rai,Mueang Chiang Rai,Tablet,Electronics,14365,3,CUST0016,1490.8
+2025-08-12,South,Surat Thani,Koh Samui,Smartphone,Electronics,12307,1,CUST0032,1916.05
+2025-08-12,East,Chonburi,Pattaya,Laptop,Electronics,41468,6,CUST0043,7665.24
+2025-08-12,East,Rayong,Mueang Rayong,Tablet,Electronics,14609,4,CUST0009,1907.08
+2025-08-12,North,Chiang Rai,Mae Sai,Printer,Electronics,9733,6,CUST0004,545.3
+2025-08-13,North,Chiang Mai,Doi Saket,Paper,Office Supplies,708,4,CUST0006,39.93
+2025-08-13,South,Surat Thani,Koh Samui,Smartphone,Electronics,17696,8,CUST0013,2896.4
+2025-08-14,South,Phuket,Phuket City,Tablet,Electronics,49804,4,CUST0139,5816.73
+2025-08-16,East,Rayong,Mueang Rayong,Printer,Electronics,6619,3,CUST0071,417.9
+2025-08-16,Central,Saraburi,Muak Lek,Tablet,Electronics,8753,1,CUST0015,1017.26
+2025-08-16,East,Rayong,Mueang Rayong,Bookshelf,Furniture,12018,2,CUST0092,2129.87
+2025-08-19,Central,Saraburi,Kaeng Khoi,Printer,Electronics,59736,6,CUST0039,5915.37
+2025-08-20,North,Chiang Mai,Mueang Chiang Mai,Tablet,Electronics,16012,3,CUST0073,1704.44
+2025-08-20,East,Rayong,Ban Chang,Printer,Electronics,11436,6,CUST0054,1281.6
+2025-08-20,Northeast,Nakhon Ratchasima,Pak Chong,Pen,Office Supplies,440,8,CUST0025,93.46
+2025-08-21,South,Surat Thani,Mueang Surat Thani,Laptop,Electronics,25184,4,CUST0088,4131.12
+2025-08-21,East,Chonburi,Si Racha,Printer,Electronics,11049,4,CUST0035,791.9
+2025-08-22,East,Chonburi,Si Racha,Tablet,Electronics,8449,5,CUST0074,960.88
+2025-08-23,Central,Saraburi,Muak Lek,Laptop,Electronics,40152,6,CUST0086,7244.36
+2025-08-24,North,Chiang Mai,Mueang Chiang Mai,Lamp,Furniture,2130,2,CUST0093,232.85
+2025-08-25,North,Chiang Rai,Mueang Chiang Rai,Printer,Electronics,86960,8,CUST0070,7972.01
+2025-08-26,Central,Bangkok,Bangkok,Smartphone,Electronics,17868,1,CUST0040,2502.2
+2025-08-26,Central,Saraburi,Kaeng Khoi,Smartphone,Electronics,255340,10,CUST0083,40373.82
+2025-08-26,North,Chiang Rai,Mueang Chiang Rai,Smartphone,Electronics,20855,10,CUST0068,2935.25
+2025-08-27,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Laptop,Electronics,35643,5,CUST0030,6794.74
+2025-08-27,East,Chonburi,Si Racha,Smartphone,Electronics,28067,4,CUST0075,4684.05
+2025-08-27,Northeast,Khon Kaen,Chum Phae,Printer,Electronics,17236,2,CUST0077,2030.56
+2025-08-27,South,Surat Thani,Koh Samui,Binder,Office Supplies,1370,10,CUST0030,162.41
+2025-08-28,North,Chiang Mai,Mueang Chiang Mai,Tablet,Electronics,16267,10,CUST0090,1525.04
+2025-08-29,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Pen,Office Supplies,99,3,CUST0123,18.6
+2025-08-29,North,Chiang Mai,Doi Saket,Smartphone,Electronics,89865,5,CUST0112,16159.23
+2025-08-30,North,Chiang Mai,Doi Saket,Laptop,Electronics,26643,9,CUST0023,4450.74
+2025-08-31,East,Rayong,Ban Chang,Smartphone,Electronics,23960,9,CUST0070,3547.0
+2025-09-03,East,Rayong,Mueang Rayong,Tablet,Electronics,9720,1,CUST0058,1117.4
+2025-09-04,East,Chonburi,Pattaya,Printer,Electronics,5392,1,CUST0071,726.2
+2025-09-04,East,Rayong,Ban Chang,Laptop,Electronics,32486,8,CUST0078,5644.48
+2025-09-05,North,Chiang Rai,Mueang Chiang Rai,Lamp,Furniture,8670,10,CUST0076,1191.96
+2025-09-05,South,Surat Thani,Koh Samui,Laptop,Electronics,29555,4,CUST0028,5623.9
+2025-09-05,East,Rayong,Mueang Rayong,Pen,Office Supplies,504,6,CUST0023,94.16
+2025-09-06,South,Phuket,Phuket City,Tablet,Electronics,16217,2,CUST0083,2125.04
+2025-09-08,Northeast,Nakhon Ratchasima,Pak Chong,Smartphone,Electronics,25215,2,CUST0093,3687.25
+2025-09-09,East,Rayong,Ban Chang,Smartphone,Electronics,22159,4,CUST0060,3546.85
+2025-09-09,South,Surat Thani,Mueang Surat Thani,Tablet,Electronics,14533,5,CUST0041,1647.96
+2025-09-11,South,Phuket,Patong,Bookshelf,Furniture,13212,2,CUST0117,2047.67
+2025-09-11,East,Rayong,Ban Chang,Tablet,Electronics,11756,1,CUST0062,1906.72
+2025-09-11,South,Phuket,Phuket City,Laptop,Electronics,44238,9,CUST0049,8445.84
+2025-09-12,Central,Saraburi,Kaeng Khoi,Desk,Furniture,48640,8,CUST0003,8742.76
+2025-09-13,East,Rayong,Mueang Rayong,Tablet,Electronics,8624,4,CUST0090,1365.88
+2025-09-14,South,Phuket,Patong,Printer,Electronics,9198,6,CUST0085,1396.8
+2025-09-14,North,Chiang Mai,Mueang Chiang Mai,Stapler,Office Supplies,606,2,CUST0111,63.02
+2025-09-16,East,Chonburi,Pattaya,Chair,Furniture,26784,9,CUST0111,5460.16
+2025-09-16,East,Rayong,Ban Chang,Printer,Electronics,75924,9,CUST0072,6743.39
+2025-09-19,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Printer,Electronics,14648,2,CUST0086,1473.85
+2025-09-19,Northeast,Khon Kaen,Mueang Khon Kaen,Pen,Office Supplies,135,3,CUST0066,22.33
+2025-09-21,East,Rayong,Ban Chang,Smartphone,Electronics,111216,7,CUST0093,14597.65
+2025-09-22,Northeast,Khon Kaen,Chum Phae,Tablet,Electronics,17590,10,CUST0081,2233.8
+2025-09-23,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Printer,Electronics,11774,8,CUST0011,908.4
+2025-09-24,East,Rayong,Ban Chang,Tablet,Electronics,9418,4,CUST0079,1529.16
+2025-09-25,North,Chiang Mai,Doi Saket,Smartphone,Electronics,24888,2,CUST0099,3612.2
+2025-09-25,Central,Saraburi,Kaeng Khoi,Laptop,Electronics,39871,8,CUST0091,6909.78
+2025-09-27,Northeast,Khon Kaen,Chum Phae,Printer,Electronics,11998,9,CUST0036,1073.8
+2025-09-27,North,Chiang Rai,Mueang Chiang Rai,Laptop,Electronics,258752,8,CUST0132,48878.47
+2025-09-27,Northeast,Khon Kaen,Chum Phae,Desk,Furniture,62363,7,CUST0053,7927.69
+2025-09-27,South,Surat Thani,Mueang Surat Thani,Tablet,Electronics,15509,8,CUST0088,1775.08
+2025-09-28,South,Phuket,Phuket City,Printer,Electronics,8660,1,CUST0021,1097.0
+2025-09-29,North,Chiang Rai,Mae Sai,Smartphone,Electronics,27575,2,CUST0038,4360.25
+2025-09-29,East,Rayong,Ban Chang,Tablet,Electronics,66552,8,CUST0093,7027.45
+2025-09-29,Central,Saraburi,Muak Lek,Chair,Furniture,4920,3,CUST0061,843.31
+2025-10-01,East,Chonburi,Si Racha,Tablet,Electronics,14774,1,CUST0091,1878.88
+2025-10-01,Central,Saraburi,Muak Lek,Printer,Electronics,10317,2,CUST0056,702.7
+2025-10-02,North,Chiang Mai,Doi Saket,Tablet,Electronics,17259,5,CUST0066,1972.08
+2025-10-03,East,Chonburi,Pattaya,Laptop,Electronics,41407,8,CUST0084,7447.26
+2025-10-03,North,Chiang Mai,Mueang Chiang Mai,Tablet,Electronics,9003,5,CUST0088,1489.36
+2025-10-03,North,Chiang Rai,Mueang Chiang Rai,Printer,Electronics,9267,10,CUST0091,1230.7
+2025-10-04,South,Surat Thani,Koh Samui,Chair,Furniture,1769,1,CUST0061,180.05
+2025-10-04,East,Chonburi,Si Racha,Tablet,Electronics,36630,3,CUST0124,5337.08
+2025-10-06,North,Chiang Rai,Mae Sai,Pen,Office Supplies,296,4,CUST0099,55.0
+2025-10-06,Northeast,Nakhon Ratchasima,Pak Chong,Laptop,Electronics,26811,2,CUST0088,4336.98
+2025-10-07,South,Phuket,Patong,Binder,Office Supplies,532,7,CUST0094,43.45
+2025-10-09,North,Chiang Rai,Mueang Chiang Rai,Printer,Electronics,5177,10,CUST0033,912.7
+2025-10-10,North,Chiang Rai,Mae Sai,Smartphone,Electronics,27582,10,CUST0099,4432.3
+2025-10-10,South,Phuket,Phuket City,Smartphone,Electronics,28881,1,CUST0049,3878.15
+2025-10-10,East,Rayong,Ban Chang,Printer,Electronics,8887,4,CUST0006,1269.7
+2025-10-10,North,Chiang Mai,Doi Saket,Printer,Electronics,10089,8,CUST0042,952.9
+2025-10-11,North,Chiang Rai,Mae Sai,Laptop,Electronics,40556,6,CUST0019,7079.08
+2025-10-12,Northeast,Nakhon Ratchasima,Pak Chong,Smartphone,Electronics,18016,5,CUST0065,2222.4
+2025-10-13,Central,Saraburi,Kaeng Khoi,Smartphone,Electronics,20295,9,CUST0013,2976.25
+2025-10-16,Central,Bangkok,Bangkok,Printer,Electronics,7999,8,CUST0016,795.9
+2025-10-16,North,Chiang Rai,Mae Sai,Tablet,Electronics,14781,4,CUST0034,1990.72
+2025-10-16,North,Chiang Rai,Mueang Chiang Rai,Smartphone,Electronics,21605,5,CUST0042,3644.75
+2025-10-16,North,Chiang Mai,Doi Saket,Printer,Electronics,7692,4,CUST0068,1071.2
+2025-10-17,South,Phuket,Patong,Stapler,Office Supplies,1002,6,CUST0088,150.9
+2025-10-17,Northeast,Khon Kaen,Mueang Khon Kaen,Desk,Furniture,57690,10,CUST0060,13020.45
+2025-10-18,North,Chiang Mai,Doi Saket,Tablet,Electronics,13348,1,CUST0022,1299.76
+2025-10-18,Northeast,Khon Kaen,Chum Phae,Printer,Electronics,9188,3,CUST0055,1211.8
+2025-10-19,Northeast,Khon Kaen,Mueang Khon Kaen,Tablet,Electronics,15118,3,CUST0082,1701.16
+2025-10-20,South,Phuket,Patong,Printer,Electronics,7802,8,CUST0051,772.2
+2025-10-20,South,Phuket,Phuket City,Smartphone,Electronics,15650,9,CUST0042,1949.5
+2025-10-20,South,Surat Thani,Mueang Surat Thani,Printer,Electronics,11660,6,CUST0069,741.0
+2025-10-21,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Tablet,Electronics,16709,10,CUST0044,1987.08
+2025-10-23,Northeast,Khon Kaen,Mueang Khon Kaen,Laptop,Electronics,35834,1,CUST0075,5783.43
+2025-10-23,Central,Saraburi,Kaeng Khoi,Smartphone,Electronics,19351,1,CUST0097,2425.65
+2025-10-24,South,Surat Thani,Koh Samui,Tablet,Electronics,8464,8,CUST0049,1345.68
+2025-10-24,North,Chiang Mai,Mueang Chiang Mai,Bookshelf,Furniture,3410,1,CUST0129,611.1
+2025-10-24,East,Chonburi,Si Racha,Smartphone,Electronics,20104,2,CUST0065,2940.6
+2025-10-25,Central,Saraburi,Muak Lek,Smartphone,Electronics,25126,1,CUST0061,3567.9
+2025-10-25,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Laptop,Electronics,37877,4,CUST0058,6934.86
+2025-10-26,Central,Saraburi,Kaeng Khoi,Laptop,Electronics,31993,10,CUST0046,5989.74
+2025-10-26,South,Surat Thani,Mueang Surat Thani,Pen,Office Supplies,266,7,CUST0022,63.64
+2025-10-28,East,Rayong,Ban Chang,Tablet,Electronics,86590,10,CUST0045,11962.88
+2025-10-29,North,Chiang Mai,Doi Saket,Tablet,Electronics,22360,2,CUST0093,2567.2
+2025-10-29,North,Chiang Mai,Mueang Chiang Mai,Desk,Furniture,4581,1,CUST0016,971.26
+2025-10-29,Central,Bangkok,Bangkok,Desk,Furniture,22145,5,CUST0108,3022.32
+2025-10-31,North,Chiang Rai,Mueang Chiang Rai,Binder,Office Supplies,650,10,CUST0134,70.91
+2025-11-01,South,Phuket,Phuket City,Laptop,Electronics,41851,3,CUST0023,7884.18
+2025-11-02,East,Rayong,Mueang Rayong,Tablet,Electronics,73692,9,CUST0030,9875.77
+2025-11-02,South,Phuket,Phuket City,Printer,Electronics,5248,2,CUST0092,208.8
+2025-11-02,East,Rayong,Ban Chang,Smartphone,Electronics,21303,8,CUST0065,2741.45
+2025-11-03,North,Chiang Mai,Doi Saket,Printer,Electronics,14526,2,CUST0107,1611.04
+2025-11-05,North,Chiang Mai,Mueang Chiang Mai,Laptop,Electronics,36481,4,CUST0032,6937.58
+2025-11-05,East,Rayong,Ban Chang,Printer,Electronics,8300,10,CUST0059,659.0
+2025-11-06,East,Chonburi,Si Racha,Printer,Electronics,7798,9,CUST0022,522.8
+2025-11-06,South,Surat Thani,Mueang Surat Thani,Smartphone,Electronics,28639,2,CUST0051,4595.85
+2025-11-07,East,Chonburi,Pattaya,Desk,Furniture,36340,5,CUST0096,9062.08
+2025-11-07,Northeast,Nakhon Ratchasima,Pak Chong,Smartphone,Electronics,239072,8,CUST0110,35039.17
+2025-11-08,East,Rayong,Ban Chang,Tablet,Electronics,8482,8,CUST0089,608.84
+2025-11-08,East,Rayong,Mueang Rayong,Smartphone,Electronics,22270,9,CUST0060,3288.5
+2025-11-08,Central,Saraburi,Muak Lek,Printer,Electronics,26358,3,CUST0143,2508.71
+2025-11-10,North,Chiang Mai,Doi Saket,Stapler,Office Supplies,1020,3,CUST0116,189.87
+2025-11-11,North,Chiang Mai,Doi Saket,Stapler,Office Supplies,2910,10,CUST0011,568.68
+2025-11-12,Northeast,Khon Kaen,Chum Phae,Tablet,Electronics,13687,8,CUST0079,1336.44
+2025-11-14,East,Chonburi,Pattaya,Printer,Electronics,5918,8,CUST0001,993.8
+2025-11-14,South,Surat Thani,Mueang Surat Thani,Desk,Furniture,22131,3,CUST0086,2727.03
+2025-11-15,South,Surat Thani,Mueang Surat Thani,Desk,Furniture,39496,8,CUST0056,7635.21
+2025-11-15,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Smartphone,Electronics,18335,1,CUST0034,2493.99
+2025-11-15,North,Chiang Mai,Mueang Chiang Mai,Lamp,Furniture,10770,10,CUST0022,1575.65
+2025-11-16,Central,Bangkok,Bangkok,Laptop,Electronics,166540,5,CUST0105,27556.41
+2025-11-16,North,Chiang Rai,Mueang Chiang Rai,Tablet,Electronics,10485,8,CUST0047,1651.2
+2025-11-17,Northeast,Khon Kaen,Mueang Khon Kaen,Paper,Office Supplies,543,3,CUST0020,36.59
+2025-11-17,Central,Saraburi,Kaeng Khoi,Printer,Electronics,41580,7,CUST0039,4232.12
+2025-11-17,South,Phuket,Patong,Laptop,Electronics,34939,2,CUST0007,6381.02
+2025-11-18,North,Chiang Mai,Doi Saket,Laptop,Electronics,38847,4,CUST0037,6815.46
+2025-11-18,North,Chiang Rai,Mueang Chiang Rai,Laptop,Electronics,189600,5,CUST0149,32619.0
+2025-11-18,Central,Bangkok,Bangkok,Lamp,Furniture,1960,2,CUST0078,243.47
+2025-11-19,East,Chonburi,Si Racha,Laptop,Electronics,34614,2,CUST0045,6163.52
+2025-11-20,Northeast,Khon Kaen,Chum Phae,Chair,Furniture,11907,7,CUST0026,2277.15
+2025-11-22,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Lamp,Furniture,5508,6,CUST0027,624.23
+2025-11-23,Central,Saraburi,Muak Lek,Smartphone,Electronics,21204,1,CUST0065,2860.6
+2025-11-24,North,Chiang Mai,Doi Saket,Printer,Electronics,24189,3,CUST0139,2672.89
+2025-11-24,Central,Saraburi,Kaeng Khoi,Laptop,Electronics,31577,7,CUST0039,6086.86
+2025-11-24,East,Chonburi,Pattaya,Tablet,Electronics,103592,8,CUST0099,11391.06
+2025-11-24,Central,Bangkok,Bangkok,Printer,Electronics,6415,6,CUST0070,770.5
+2025-11-24,North,Chiang Rai,Mueang Chiang Rai,Bookshelf,Furniture,19312,4,CUST0027,3031.54
+2025-11-25,East,Rayong,Mueang Rayong,Laptop,Electronics,34164,8,CUST0011,6518.52
+2025-11-26,East,Chonburi,Pattaya,Lamp,Furniture,1653,3,CUST0084,175.24
+2025-11-26,North,Chiang Rai,Mueang Chiang Rai,Laptop,Electronics,32475,1,CUST0019,5735.5
+2025-11-26,South,Phuket,Phuket City,Laptop,Electronics,43341,2,CUST0086,8136.38
+2025-11-26,North,Chiang Rai,Mueang Chiang Rai,Smartphone,Electronics,23111,6,CUST0010,3093.65
+2025-11-27,South,Phuket,Phuket City,Laptop,Electronics,30786,4,CUST0075,5231.48
+2025-11-27,East,Rayong,Ban Chang,Laptop,Electronics,29533,8,CUST0035,5506.94
+2025-11-27,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Paper,Office Supplies,390,2,CUST0063,28.14
+2025-11-28,East,Rayong,Ban Chang,Printer,Electronics,8565,7,CUST0006,1169.5
+2025-11-28,South,Phuket,Phuket City,Smartphone,Electronics,128185,5,CUST0036,18522.44
+2025-11-28,Central,Bangkok,Bangkok,Smartphone,Electronics,27543,1,CUST0020,3954.45
+2025-11-29,South,Surat Thani,Koh Samui,Tablet,Electronics,8371,9,CUST0075,1308.52
+2025-11-30,Northeast,Nakhon Ratchasima,Pak Chong,Tablet,Electronics,10905,2,CUST0022,1289.6
+2025-12-02,South,Surat Thani,Koh Samui,Tablet,Electronics,11944,9,CUST0005,1243.28
+2025-12-02,South,Surat Thani,Koh Samui,Smartphone,Electronics,22640,3,CUST0073,3236.0
+2025-12-03,North,Chiang Rai,Mae Sai,Smartphone,Electronics,21065,1,CUST0014,3454.75
+2025-12-03,South,Phuket,Phuket City,Laptop,Electronics,31509,5,CUST0070,5317.62
+2025-12-04,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Lamp,Furniture,8955,9,CUST0142,1025.46
+2025-12-05,South,Phuket,Phuket City,Tablet,Electronics,11182,1,CUST0008,868.84
+2025-12-06,Northeast,Khon Kaen,Mueang Khon Kaen,Laptop,Electronics,37890,1,CUST0033,6315.33
+2025-12-06,South,Surat Thani,Mueang Surat Thani,Printer,Electronics,7167,9,CUST0028,569.7
+2025-12-07,North,Chiang Mai,Mueang Chiang Mai,Printer,Electronics,7856,8,CUST0044,404.6
+2025-12-07,Northeast,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Tablet,Electronics,15604,3,CUST0006,1769.48
+2025-12-09,East,Chonburi,Si Racha,Lamp,Furniture,946,1,CUST0020,77.45
+2025-12-10,Northeast,Khon Kaen,Chum Phae,Smartphone,Electronics,17023,3,CUST0078,2475.45
+2025-12-11,North,Chiang Rai,Mueang Chiang Rai,Lamp,Furniture,7914,6,CUST0064,1315.05
+2025-12-12,South,Phuket,Phuket City,Stapler,Office Supplies,1918,7,CUST0107,308.24
+2025-12-13,Central,Saraburi,Muak Lek,Tablet,Electronics,118839,7,CUST0078,16837.85
+2025-12-13,North,Chiang Rai,Mae Sai,Tablet,Electronics,28928,2,CUST0138,2912.93
+2025-12-13,North,Chiang Mai,Mueang Chiang Mai,Lamp,Furniture,530,1,CUST0060,47.37
+2025-12-14,North,Chiang Rai,Mae Sai,Pen,Office Supplies,850,10,CUST0021,146.67
+2025-12-14,South,Surat Thani,Mueang Surat Thani,Tablet,Electronics,11722,10,CUST0090,915.64
+2025-12-15,Central,Saraburi,Muak Lek,Smartphone,Electronics,28856,4,CUST0069,4105.4
+2025-12-16,North,Chiang Mai,Mueang Chiang Mai,Pen,Office Supplies,96,2,CUST0117,20.66
+2025-12-16,Central,Saraburi,Muak Lek,Desk,Furniture,17984,2,CUST0062,4194.03
+2025-12-18,North,Chiang Rai,Mueang Chiang Rai,Stapler,Office Supplies,760,2,CUST0038,82.14
+2025-12-20,North,Chiang Rai,Mae Sai,Printer,Electronics,5112,5,CUST0006,332.2
+2025-12-22,Northeast,Khon Kaen,Mueang Khon Kaen,Laptop,Electronics,36285,7,CUST0074,6576.3
+2025-12-22,North,Chiang Mai,Doi Saket,Printer,Electronics,5145,5,CUST0004,876.5
+2025-12-23,East,Rayong,Mueang Rayong,Printer,Electronics,6490,2,CUST0087,663.0
+2025-12-26,East,Chonburi,Si Racha,Laptop,Electronics,33147,10,CUST0098,5966.46
+2025-12-27,Central,Saraburi,Kaeng Khoi,Printer,Electronics,11644,6,CUST0048,1314.4
+2025-12-27,North,Chiang Mai,Mueang Chiang Mai,Smartphone,Electronics,15819,3,CUST0039,2850.85
+2025-12-27,Northeast,Khon Kaen,Chum Phae,Laptop,Electronics,269145,9,CUST0027,52910.62
+2025-12-29,South,Surat Thani,Mueang Surat Thani,Binder,Office Supplies,1287,9,CUST0138,116.86
+2025-12-30,North,Chiang Rai,Mueang Chiang Rai,Laptop,Electronics,43879,6,CUST0019,7981.22
+2025-12-30,North,Chiang Mai,Doi Saket,Printer,Electronics,7029,1,CUST0004,600.9
+2025-12-30,Central,Saraburi,Muak Lek,Paper,Office Supplies,2016,9,CUST0030,119.59
