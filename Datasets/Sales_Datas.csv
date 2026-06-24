@@ -1,4 +1,4 @@
-Date,Region,Province,City,Product,Category,Sales,Quantity,CustomerID,Profit
+Dates,Region,Province,City,Product,Category,Sales,Quantity,CustomerID,Profit
 2025-01-02,North,Chiang Rai,Mae Sai,Tablet,Electronics,15283,9,CUST0024,1916.96
 2025-01-02,South,Surat Thani,Koh Samui,Printer,Electronics,52839,9,CUST0077,6067.01
 2025-01-02,Northeast,Nakhon Ratchasima,Pak Chong,Printer,Electronics,8265,9,CUST0094,834.5
